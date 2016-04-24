@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WhereBy.Us</title>
+    <description>Live Like You Live Here. We make media and experiences to help curious locals engage with their cities.</description>
+    <link>https://wherebyus.github.io/</link>
+    <atom:link href="https://wherebyus.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 24 Apr 2016 09:57:09 -0400</pubDate>
+    <lastBuildDate>Sun, 24 Apr 2016 09:57:09 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.4</generator>
+    
+      <item>
+        <title>Lyft &amp;amp; Neighborhood Guides</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
+        <link>https://wherebyus.github.io/2015/12/01/lyft-guides-neighborhoods/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2015/12/01/lyft-guides-neighborhoods/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MiamiLand</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Nov 2015 00:00:00 -0400</pubDate>
+        <link>https://wherebyus.github.io/2015/11/01/lyft-miamiland/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2015/11/01/lyft-miamiland/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>A+Eats</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+        <link>https://wherebyus.github.io/2015/09/01/a-and-eats/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2015/09/01/a-and-eats/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Startup Guide</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+        <link>https://wherebyus.github.io/2015/09/01/startup-guide/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2015/09/01/startup-guide/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The New Tropic</title>
+        <description>
+</description>
+        <pubDate>Mon, 12 Jan 2015 00:00:00 -0500</pubDate>
+        <link>https://wherebyus.github.io/2015/01/12/new-tropic/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2015/01/12/new-tropic/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Our Miami Report</title>
+        <description>
+</description>
+        <pubDate>Wed, 15 Oct 2014 00:00:00 -0400</pubDate>
+        <link>https://wherebyus.github.io/2014/10/15/our-miami/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2014/10/15/our-miami/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
