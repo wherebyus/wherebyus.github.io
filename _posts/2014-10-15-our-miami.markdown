@@ -1,0 +1,14 @@
+---
+title: Our Miami Report
+subtitle: Making data come alive
+layout: default
+modal-id: 1
+date: 2014-10-15
+img: ourmiami.jpg
+thumbnail: ourmiami-thumbnail.jpg
+alt: image-alt
+project-date: October 2014
+project-url: http://ourmiami.org/
+description: When the Miami Foundation released its groundbreaking Our Miami report — a comprehensive overview of the city's challenges and opportunities — they needed to make the data come alive. We created an interactive experience for the report's launch that gave people guided experiences with data. From striking large-scale graphics with guides to explain the numbers, to a pop-up park, to a timelapse art installation of Miami commutes, to a DIY street design station — attendees experienced first-hand what the report detailed.
+
+---

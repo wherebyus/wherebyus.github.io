@@ -1,0 +1,96 @@
+url: https://wherebyus.github.io
+baseurl: /
+
+# Site settings
+title: WhereBy.Us
+email: hello@whereby.us
+description: "Live Like You Live Here. We make media and experiences to help curious locals engage with their cities."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: f8d04d
+  secondary: f2c42d  
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Chris Sopher
+  pic: 1
+  position: Co-founder and C.E.O.
+  social:
+    - title: twitter
+      url: https://twitter.com/cksopher
+    - title: facebook
+      url: https://www.facebook.com/cksopher
+    - title: linkedin
+      url: https://www.linkedin.com/in/cksopher
+
+- name: Rebekah Monson
+  pic: 2
+  position: Co-founder, Product
+  social:
+    - title: twitter
+      url: https://twitter.com/rsm
+    - title: facebook
+      url: https://www.facebook.com/rebekahmonson
+    - title: linkedin
+      url: https://www.linkedin.com/in/rmonson
+
+- name: Bruce Pinchbeck
+  pic: 3
+  position: Co-founder, Creative
+  social:
+    - title: twitter
+      url: https://twitter.com/BrucePinchbeck
+    - title: facebook
+      url: https://www.facebook.com/bruuuuce
+    - title: linkedin
+      url: https://www.linkedin.com/in/brucepinchbeckjr
+
+- name: Chris Adamo
+  pic: 4
+  position: Director, Business Development
+  social:
+    - title: twitter
+      url: https://twitter.com/cadamo25
+    - title: facebook
+      url: https://www.facebook.com/christopheradamo
+    - title: linkedin
+      url: https://www.linkedin.com/in/adamochris
+
+- name: Kassandra Meyer
+  pic: 5
+  position: Web Developer
+  social:
+    - title: github
+      url: https://github.com/kassanj
+    - title: linkedin
+      url: https://www.linkedin.com/in/kassandram
+
+- name: Laura García
+  pic: 6
+  position: Office Manager
+  social:
+    - title: twitter
+      url: https://twitter.com/lauragcourrau
+    - title: linkedin
+      url: https://www.linkedin.com/in/lauramgc
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/wherebyus
+  - title: facebook
+    url: http://facebook.com/wherebyus
+  - title: github
+    url: http://github.com/wherebyus
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 7230 NW Miami Ct.
+  - line: Unit 5
+  - line: Miami, Florida 33150
+
+# Build settings
+markdown: kramdown
+permalink: pretty
