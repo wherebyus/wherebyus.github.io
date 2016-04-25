@@ -169,7 +169,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Lyft &amp; Neighborhood Guides</h4>
-                        <p class="text-muted small">Connectiing through exploration</p>
+                        <p class="text-muted small">Connecting through exploration</p>
                     </div>
                 </div>
             
@@ -771,12 +771,11 @@
 
     function showFeed(data){
         if(data.status == 'ok'){
-            console.log(data);
 
             var output = '';
 
-            for(var i=0;i<data.items.length;++i){
-
+            for(var i=0;i<2;++i){
+                console.log(i);
                 output += '<div class="blog-entry text-muted"><h3 class="blog-title"><a href="' +
                 data.items[i].link + '" >' +
                 data.items[i].title + '</h3></a>'+

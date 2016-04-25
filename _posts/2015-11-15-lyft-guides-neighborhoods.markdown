@@ -1,6 +1,6 @@
 ---
 title: Lyft &amp; Neighborhood Guides
-subtitle: Connectiing through exploration
+subtitle: Connecting through exploration
 layout: default
 modal-id: 5
 date: 2015-12-01
