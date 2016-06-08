@@ -79,7 +79,11 @@
     background-color: #8ec9c8;
   }
 
-  img#logo, img#logo2 {
+  img#logo {
+    margin-top: -20
+  }
+
+  img#logo2 {
     margin-top: -20
   }
 
