@@ -16,6 +16,8 @@ client:
   - name: airbnb
   - name: urban-us
   - name: mdc
+  - name: wyncode
+  - name: opera
 
 social:
   - title: twitter

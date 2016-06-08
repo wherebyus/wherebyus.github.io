@@ -54,7 +54,7 @@ section h3.section-subheading {
 }
 
 .numbers {
-  font-family: "din-condensed-web",Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "din-condensed-web", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 40px
 }
 
@@ -188,7 +188,4 @@ path {fill: #f2c42d  !important;}
   }
 }
 
-.text-muted.stats {
-  text-align:center;
-}
 

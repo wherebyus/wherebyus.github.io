@@ -8,12 +8,13 @@ logo: whereby
 
 client:
   - name: lyft
-  - name: airbnb
-  - name: miami-foundation
-  - name: urban-us
   - name: knight
+  - name: miami-foundation
+  - name: airbnb
+  - name: urban-us
   - name: mdc
-
+  - name: wyncode
+  
 
 social:
   - title: twitter
