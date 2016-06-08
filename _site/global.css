@@ -5,32 +5,7 @@ html { overflow-y: scroll; }
 body { font-family: sans-serif; }
 
 header {
-  background-image: url();
-}
-
-.navbar-brand.page-scroll {
-  margin-top: -10px;
-}
-
-.navbar-default #wbu-logo2 {
-  display:none;
-}
-
-.navbar-default.navbar-shrink #wbu-logo2 {
-  display: inline;
-}
-
-.navbar-default.navbar-shrink #wbu-logo {
-  display: none;
-}
-
-#wbu-logo {
-  margin-top: -10px;
-}
-
-#wbu-logo2 {
-  width: 62px; 
-  margin-top:-12px;
+  background-image: url(/img/wbu_header_drkr.jpg);
 }
 
 .navbar-default.navbar-shrink {
@@ -38,6 +13,10 @@ header {
 }
 .navbar-default.navbar-shrink li.active a.page-scroll {
   color: white;
+}
+
+.navbar-default.navbar-shrink a.page-scroll { 
+  color: #f8d04d;
 }
 
 a#link {
