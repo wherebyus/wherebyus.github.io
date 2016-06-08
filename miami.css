@@ -79,6 +79,10 @@
     background-color: #8ec9c8;
   }
 
+  img#logo, img#logo2 {
+    margin-top: -20
+  }
+
   #portfolio .portfolio-item .portfolio-link .portfolio-hover {
     background: rgba(142,201,200,0.5);
   }
