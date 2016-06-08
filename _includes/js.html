@@ -1,5 +1,6 @@
  <!-- jQuery Version 1.11.0 -->
     <script src="{{ "/js/jquery-1.11.0.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
@@ -9,12 +10,96 @@
     <script src="{{ "/js/classie.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
 
+    <script src="{{ "/js/masonry.pkgd.min.js" | prepend: site.baseurl }}"></script>
+
+    <script>
+        $(window).load(function(){ $('.grid').masonry(); });
+        $container.imagesLoaded(function(){
+          $container.masonry({
+                itemSelector : '.grid-item',
+                columnWidth : '.grid-sizer',
+                gutterWidth: 5
+          });
+        });
+    </script>
+
     <!-- Contact Form JavaScript -->
-    <script src="{{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}"></script>
+
     <script src="{{ "/js/contact_me.js" | prepend: site.baseurl }}"></script>
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+
+
+    <!-- Chart.js JavaScript -->
+    <script src="{{ "/js/Chart.min.js" | prepend: site.baseurl }}"></script>
+    <script>
+        var color = "{{page.color}}";
+        var color_hover = "{{page.color-hover}}";
+
+        var inView = false;
+
+            function isScrolledIntoView(elem)
+            {
+                var docViewTop = $(window).scrollTop();
+                var docViewBottom = docViewTop + $(window).height();
+            
+                var elemTop = $(elem).offset().top;
+                var elemBottom = elemTop + $(elem).height();
+            
+                return ((elemTop <= docViewBottom) && (elemBottom >= docViewTop));
+            }
+            
+            $(window).scroll(function() {
+                if (isScrolledIntoView('#myChart')) {
+                    if (inView) { return; }
+                    inView = true;
+                    var ctx = document.getElementById("myChart");
+                    var myChart = new Chart(ctx, {
+                        type: 'bar',
+                        scaleShowVerticalLines: false,
+                        data: {
+
+                            labels: ["18-24", "24-35", "36-44", "45-54", "55-64", "65+"],
+                            datasets: [{
+
+                                label: 'Percentage of users by age',
+                                showTooltips: true,
+                                backgroundColor: color,
+                                borderWidth: 1,
+                                hoverBackgroundColor: color_hover,
+                                hoverBorderColor: "rgba(142,201,200,0)",
+                                data: [10, 42, 21, 15, 8, 4]
+                            }]
+                        },
+                        options: {
+
+                            legend: {
+                                display: false,
+                                position: 'bottom'
+                            },
+                            scales: {
+                                yAxes: [{
+                                    ticks: {
+                                        beginAtZero:true
+                                    },
+                                    gridLines:{
+                                        display:false
+                                    }
+                                }],
+                                xAxes: [{
+                                    gridLines:{
+                                        display:false
+                                    }
+                                }]
+                            }
+                        }
+                    });
+                } else {
+                    inView = false;  
+                }
+            });
+    </script>
 
     <!-- Display rss -->
     <script type="text/javascript">
@@ -34,11 +119,60 @@
 
             }
 
-
             content.innerHTML = output;
 
-        }
+            }
 
-    }
-</script>
-<script type="text/javascript" src="http://rss2json.com/api.json?callback=showFeed&rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2Fwhereby-us"></script>
+        }
+    </script>
+
+    <script>
+        function replay() {
+            console.log('video ended');
+            document.getElementsByTagName('video').currentTime = 0;
+            document.getElementsByTagName('video')[0].play()
+        ;}
+    </script>
+
+    <script>
+
+$(function(){
+    jQuery('img.svg').each(function(){
+        var $img = jQuery(this);
+        var imgID = $img.attr('id');
+        var imgClass = $img.attr('class');
+        var imgURL = $img.attr('src');
+    
+        jQuery.get(imgURL, function(data) {
+            // Get the SVG tag, ignore the rest
+            var $svg = jQuery(data).find('svg');
+    
+            // Add replaced image's ID to the new SVG
+            if(typeof imgID !== 'undefined') {
+                $svg = $svg.attr('id', imgID);
+            }
+            // Add replaced image's classes to the new SVG
+            if(typeof imgClass !== 'undefined') {
+                $svg = $svg.attr('class', imgClass+' replaced-svg');
+            }
+    
+            // Remove any invalid XML tags as per http://validator.w3.org
+            $svg = $svg.removeAttr('xmlns:a');
+            
+            // Check if the viewport is set, else we gonna set it if we can.
+            if(!$svg.attr('viewBox') && $svg.attr('height') && $svg.attr('width')) {
+                $svg.attr('viewBox', '0 0 ' + $svg.attr('height') + ' ' + $svg.attr('width'))
+            }
+    
+            // Replace image with new SVG
+            $img.replaceWith($svg);
+    
+        }, 'xml');
+    
+    });
+});
+
+    </script>
+    
+    <script type="text/javascript" src="http://rss2json.com/api.json?callback=showFeed&rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2Fwhereby-us"></script>
+

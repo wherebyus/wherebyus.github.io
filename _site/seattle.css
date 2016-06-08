@@ -1,0 +1,58 @@
+
+  body {
+    color: #488e5b;
+  }
+  .numbers{
+    color:#488e5b;
+    font-size: 40px
+  }
+  header {
+    background-image: url(/img/seattle_header.jpg);
+  }
+  a.navbar-brand.page-scroll, a.navbar-brand.page-scroll:hover, a.navbar-brand.page-scroll:focus, a.navbar-brand.page-scroll:active {
+    color: #488e5b;
+  }
+  #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background: rgba(103,204,131,0.5);
+  }
+  a {
+    color: #488e5b;
+  }
+  a:hover, a:visited, a:active {
+    color: #488e5b;
+  }
+  ::selection {
+    background-color: #d1e9e9
+  }
+  .navbar-header  {
+    color: #488e5b;
+  }
+  h2 {
+    color: #333;
+  }
+  h1, h3, h4, h5, h6 {
+   color: #488e5b;
+  }
+  .text-primary, .primary-color {
+    color: #488e5b;
+  }
+  .navbar-default .nav li a:hover, .navbar-default .nav li a:focus {
+    color: #488e5b;
+  }
+  .navbar-default .navbar-nav>.active>a {
+    background-color: #488e5b;
+  }
+  .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    background-color: #488e5b;
+  }
+  .btn-xl {
+    border-color:#488e5b;
+    background-color:#488e5b;
+  }
+  .btn-xl:hover {
+    border-color:#488e5b;
+    background-color:#488e5b;
+  }
+  ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active {
+    background-color: #488e5b;
+  }

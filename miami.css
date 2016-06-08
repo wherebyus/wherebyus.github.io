@@ -1,0 +1,161 @@
+  body {
+    color: #8ec9c8;
+  }
+
+  path {fill: #8ec9c8 !important;}
+  .st1 {fill: #8ec9c8 !important;}
+
+
+  header {
+    background-image: url(/img/tnt_header_drkr.jpg);
+  }
+
+  a {
+    color: #8ec9c8;
+  }
+
+  a:hover, a:visited, a:active {
+    color: #8ec9c8;
+  }
+
+  a.navbar-brand.page-scroll, 
+  a.navbar-brand.page-scroll:hover, 
+  a.navbar-brand.page-scroll:focus, 
+  a.navbar-brand.page-scroll:active {
+    color: #8ec9c8;
+  }
+
+  a#link span:hover {
+    color: #8ec9c8;
+  }
+
+  h2 {
+    color: #333;
+  }
+
+  h1, h3, h4, h5, h6 {
+   color: #8ec9c8;
+  }
+
+  .text-primary, 
+  .primary-color {
+    color: #8ec9c8;
+  }
+
+  .navbar-header {
+    color: #8ec9c8;
+  }
+
+  .navbar-default .nav li a:hover,
+  .navbar-default .nav li a:focus, 
+  .navbar-default .nav li a:active {
+    color: #8ec9c8;
+  }
+
+  .navbar-default .navbar-nav>.active>a, 
+  .navbar-default .navbar-nav>.active>a:hover, 
+  .navbar-default .navbar-nav>.active>a:focus {
+    background-color: #8ec9c8;
+  }
+
+  .navbar-default 
+  .navbar-toggle {
+    border-color: #8ec9c8;
+    background-color: #8ec9c8;
+  }
+
+  .navbar-default.navbar-shrink a.page-scroll {
+    color: #8ec9c8;
+  }
+
+  .navbar-default .navbar-toggle:hover, 
+  .navbar-default .navbar-toggle:focus, 
+  .navbar-default .navbar-toggle:active {
+     color: #8ec9c8;
+  }
+
+  .navbar-default .navbar-toggle:hover, 
+  .navbar-default .navbar-toggle:focus {
+    background-color: #8ec9c8;
+  }
+
+  #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background: rgba(142,201,200,0.5);
+  }
+
+  .btn-xl {
+    border-color: #8ec9c8;
+    background-color: #8ec9c8;
+  }
+
+  .btn-xl:hover {
+    border-color: #6bb9b7;
+    background-color: #6bb9b7;
+  }
+
+  .numbers {
+    color:#8ec9c8;
+  }
+
+  .fa-3x {
+    color: #8ec9c8;
+  }
+
+  .fa-3x:hover, .fa-3x:active, .fa-3x:focus {
+    color: #a4d3d3;
+  }
+
+/*Contact Section*/
+
+  .alert-success {
+      background-color: #8ec9c8;
+      border-color: #8ec9c8;
+  }
+
+  .form-control {
+    color: #8ec9c8;
+  }
+
+  section#contact .form-control:focus {
+    border-color: #8ec9c8;
+    box-shadow: none;
+  }
+
+  .btn-xl:hover, 
+  .btn-xl:focus,
+  .btn-xl:active, 
+  .btn-xl.active, 
+  .open .dropdown-toggle.btn-xl {
+    border-color: #8ec9c8;
+    background-color: #8ec9c8;
+  }
+
+/*Footer*/
+
+  ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active {
+    background-color: #8ec9c8;
+  }
+
+  ::selection {
+    background-color: #d1e9e9
+  }
+
+ 
+  @media (max-width: 400px) {
+    .navbar-default .navbar-collapse {
+      background-color: #8ec9c8; 
+    }
+    .navbar-default .nav li a:active, .navbar-default .nav li a:hover{
+      color: white;
+      background-color: #78A4A5;
+    }
+    .navbar-default.navbar-shrink a.page-scroll {
+      color: white;
+    }
+    .nav.navbar-nav.navbar-right li:active {
+      color: white;
+      background-color: #78A4A5;
+    }
+  }
+
+

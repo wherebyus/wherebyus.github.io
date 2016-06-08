@@ -1,0 +1,215 @@
+* { box-sizing: border-box; }
+
+html { overflow-y: scroll; }
+
+body { font-family: sans-serif; }
+
+header {
+  background-image: url();
+}
+
+.navbar-brand.page-scroll {
+  margin-top: -10px;
+}
+
+.navbar-default #wbu-logo2 {
+  display:none;
+}
+
+.navbar-default.navbar-shrink #wbu-logo2 {
+  display: inline;
+}
+
+.navbar-default.navbar-shrink #wbu-logo {
+  display: none;
+}
+
+#wbu-logo {
+  margin-top: -10px;
+}
+
+#wbu-logo2 {
+  width: 62px; 
+  margin-top:-12px;
+}
+
+.navbar-default.navbar-shrink {
+  background-color: white;
+}
+.navbar-default.navbar-shrink li.active a.page-scroll {
+  color: white;
+}
+
+a#link {
+  border-bottom: 2px solid;
+}
+
+a#link span {
+  color: #444;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+p.subheader {
+  font-style: italic;
+}
+
+p {
+  font-size: 15px;
+}
+
+.col-md-4.intro-text {
+  margin-top:80px; 
+  margin-left:100px;
+  text-align: left;
+}
+  
+section h3.section-subheading {
+  font-size: 15px;
+}
+
+.portfolio-modal .modal-content p {
+  color: #444;
+}
+
+.numbers {
+  font-family: "din-condensed-web",Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 40px
+}
+
+ul.item-details, ul.item-details {
+  color: #444;
+}
+
+.col-md-3.services {
+  height: 550px;
+}
+
+.select {
+  width: 100%;
+  position: absolute; 
+  bottom: 12px; 
+  left: 12px; 
+  padding-right: 24px;
+}
+
+/* ---- Masonry Grid -- */
+
+.navbar-default #logo2 {
+  display:none;
+}
+
+.navbar-default.navbar-shrink #logo2 {
+  display: inline;
+}
+
+.navbar-default.navbar-shrink #logo {
+  display: none;
+}
+
+.grid {
+  background: white;
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .grid-item ---- */
+
+.grid-sizer,
+.grid-item {
+  width: 25%;
+}
+
+.grid-item {
+  float: left;
+  margin-bottom: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.grid-item img {
+  display: block;
+  max-width: 100%;
+
+
+}
+
+path {fill: #f2c42d  !important;}
+.st1 {fill: #f2c42d  !important;}
+
+
+/* iPad mini */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* iPad 3 & 4 */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+     
+}
+
+/* iPhone */
+@media(max-width: 400px) {
+
+  .navbar-default {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-collapse {
+    background-color: #333;
+  }
+  section#discover div.container div.row:first-child  {
+    height: 255px;
+  }
+  div.col-md-4 {
+    margin: 0px;
+  }
+  h2.service-heading.intro {
+    margin-left: 49px;
+    text-transform: uppercase;
+  }
+  section#services div.container div.row:first-child  {
+    height: 192px;
+  }
+  section#services div.container div.row.text-center div.col-md-3  {
+    height: 500px;
+  }
+  .grid-sizer, .grid-item {
+    width: 50%;
+  }
+  section#audience div.container div.row:first-child {
+    height: 247px;
+  }
+  section#audience div.container div.row div.col-md-4 h2.service-heading.text-left {
+    margin-top: 44px;
+    margin-left: 109px;
+    text-transform: uppercase;
+  }
+}
+
+@media (max-width: 400px) {
+  div.col-md-4.intro-text {
+    margin-top: 0px; 
+    margin-left: 0px; 
+  }
+  section {
+    padding: 60px 0;
+  }
+}
+
+.text-muted.stats {
+  text-align:center;
+}
+

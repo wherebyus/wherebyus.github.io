@@ -11,6 +11,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -328,6 +329,7 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:768px) {
+
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
@@ -459,6 +461,12 @@ section h3.section-subheading {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+}
+
+ul.social-buttons li a:hover,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:active {
+    background-color: #f8d04d;
 }
 
 .timeline {
@@ -916,3 +924,9 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #f8d04d;
 }
+
+
+
+
+
+ 
