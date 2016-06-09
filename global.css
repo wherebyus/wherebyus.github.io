@@ -116,12 +116,10 @@ ul.item-details, ul.item-details {
 .grid-item img {
   display: block;
   max-width: 100%;
-
-
 }
 
-path {fill: #f2c42d  !important;}
-.st1 {fill: #f2c42d  !important;}
+path {fill: #f2c42d  !important; opacity: 0.6;}
+.st1 {fill: #f2c42d  !important; opacity: 0.6}
 
 
 /* iPad mini */
