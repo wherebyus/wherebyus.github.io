@@ -3,7 +3,6 @@ layout: wbu-sales
 title: WhereBy Us Sales
 subtitle: WhereBy Us
 permalink: /sales/
-city: the world
 logo: whereby
 
 client:
