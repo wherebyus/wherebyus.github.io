@@ -2,7 +2,6 @@
 layout: sales
 title: Atlanta Sales
 subtitle: Atlanta
-permalink: /sales/atlanta/
 city: atlanta
 favicon: atlanta_
 
