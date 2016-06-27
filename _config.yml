@@ -88,9 +88,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 7230 NW Miami Ct.
-  - line: Unit 5
-  - line: Miami, Florida 33150
+  - line: 1951 NW 7th Ave.
+  - line: Ste. 300
+  - line: Miami, Florida 33136
 
 # Build settings
 markdown: kramdown
