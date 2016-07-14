@@ -664,8 +664,14 @@ ul.social-buttons li a:active {
     max-width: 90%;
     margin: auto;
     margin-bottom: 4em;
-    height: 700px;
+    height: 500px;
 }
+@media(min-width:992px) {
+    .blog-entry{
+        height: 700px;
+    }
+}
+
 .blog-entry .author{
     font-size: 80%;
     text-transform: uppercase;
