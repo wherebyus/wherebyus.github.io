@@ -664,6 +664,7 @@ ul.social-buttons li a:active {
     max-width: 90%;
     margin: auto;
     margin-bottom: 4em;
+    height: 600px;
 }
 .blog-entry .author{
     font-size: 80%;
