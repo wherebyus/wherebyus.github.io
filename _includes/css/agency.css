@@ -664,12 +664,7 @@ ul.social-buttons li a:active {
     max-width: 90%;
     margin: auto;
     margin-bottom: 4em;
-    height: 500px;
-}
-@media(min-width:992px) {
-    .blog-entry{
-        height: 700px;
-    }
+    height: 600px;
 }
 
 .blog-entry .author{
@@ -688,6 +683,12 @@ ul.social-buttons li a:active {
         width: 45%;
         margin: 0 5% 4em 0;
         float: left;
+        height: 500px;
+    }
+}
+@media(min-width:992px) {
+    .blog-entry{
+        height: 700px;
     }
 }
 
