@@ -3,6 +3,7 @@ layout: wbu-sales
 title: WhereBy Us Sales
 subtitle: WhereBy Us
 logo: whereby
+permalink: /sales/
 
 client:
   - name: lyft

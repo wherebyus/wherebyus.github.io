@@ -1,6 +1,7 @@
 ---
 layout: sales
 title: Seattle Sales
+permalink: /sales/seattle/
 subtitle: Seattle
 city: seattle
 favicon: seattle_
