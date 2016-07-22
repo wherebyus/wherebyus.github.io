@@ -347,6 +347,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/2016\/06\/03\/wolfsonian-tropicana\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/2016\/06\/03\/wolfsonian-tropicana\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/css\/font-awesome\/css\/font-awesome.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -370,6 +379,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/global.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/guide\/2015\/12\/01\/lyft-guides-neighborhoods\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/guide\/2015\/12\/01\/lyft-guides-neighborhoods\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -440,6 +458,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/bookleggers-the-anderson-bar-miami-02 copy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165831,
+		"inputAbbreviatedPath": "\/_site\/img\/bookleggers-the-anderson-bar-miami-02 copy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/bookleggers-the-anderson-bar-miami-02 copy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/clients\/adrienne.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 275874,
+		"inputAbbreviatedPath": "\/_site\/img\/clients\/adrienne.png",
+		"outputAbbreviatedPath": "\/_site\/img\/clients\/adrienne.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/clients\/airbnb copy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66961,
+		"inputAbbreviatedPath": "\/_site\/img\/clients\/airbnb copy.png",
+		"outputAbbreviatedPath": "\/_site\/img\/clients\/airbnb copy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/clients\/Airbnb Logo copy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63071,
+		"inputAbbreviatedPath": "\/_site\/img\/clients\/Airbnb Logo copy.png",
+		"outputAbbreviatedPath": "\/_site\/img\/clients\/Airbnb Logo copy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/clients\/airbnb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -473,6 +535,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/clients\/knight copy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48018,
+		"inputAbbreviatedPath": "\/_site\/img\/clients\/knight copy.png",
+		"outputAbbreviatedPath": "\/_site\/img\/clients\/knight copy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/clients\/knight.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -491,6 +564,17 @@
 		"initialSize": 61225,
 		"inputAbbreviatedPath": "\/_site\/img\/clients\/lyft.png",
 		"outputAbbreviatedPath": "\/_site\/img\/clients\/lyft.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/clients\/miami-foundation copy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45192,
+		"inputAbbreviatedPath": "\/_site\/img\/clients\/miami-foundation copy.png",
+		"outputAbbreviatedPath": "\/_site\/img\/clients\/miami-foundation copy.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -891,6 +975,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/portfolio\/new-tropicana-wolfsonian.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 749627,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/new-tropicana-wolfsonian.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/new-tropicana-wolfsonian.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/portfolio\/ourmiami-thumbnail.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1162,6 +1257,28 @@
 		"initialSize": 3294,
 		"inputAbbreviatedPath": "\/_site\/img\/urban.us.png",
 		"outputAbbreviatedPath": "\/_site\/img\/urban.us.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wbu_header_drk.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165831,
+		"inputAbbreviatedPath": "\/_site\/img\/wbu_header_drk.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wbu_header_drk.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wbu_header_drkr.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165831,
+		"inputAbbreviatedPath": "\/_site\/img\/wbu_header_drkr.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wbu_header_drkr.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1498,6 +1615,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/sales-global\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/sales-global\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/sales-miami.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -1624,6 +1750,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/sales\/atlanta\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/sales\/atlanta\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/sales\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1642,11 +1777,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/sales\/miami\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/sales\/miami\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/sales\/seattle.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/sales\/seattle.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/sales\/seattle\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/sales\/seattle\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1786,72 +1939,6 @@
 		"initialSize": 4902,
 		"inputAbbreviatedPath": "\/img\/about\/4.jpg",
 		"outputAbbreviatedPath": "\/img\/about\/4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/clients\/airbnb.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4438,
-		"inputAbbreviatedPath": "\/img\/clients\/airbnb.png",
-		"outputAbbreviatedPath": "\/img\/clients\/airbnb.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/clients\/knight.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 32051,
-		"inputAbbreviatedPath": "\/img\/clients\/knight.png",
-		"outputAbbreviatedPath": "\/img\/clients\/knight.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/clients\/lyft.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 61225,
-		"inputAbbreviatedPath": "\/img\/clients\/lyft.png",
-		"outputAbbreviatedPath": "\/img\/clients\/lyft.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/clients\/miami-foundation.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 33032,
-		"inputAbbreviatedPath": "\/img\/clients\/miami-foundation.png",
-		"outputAbbreviatedPath": "\/img\/clients\/miami-foundation.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/clients\/urban.us.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3294,
-		"inputAbbreviatedPath": "\/img\/clients\/urban.us.png",
-		"outputAbbreviatedPath": "\/img\/clients\/urban.us.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/clients\/wyncode.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 38333,
-		"inputAbbreviatedPath": "\/img\/clients\/wyncode.png",
-		"outputAbbreviatedPath": "\/img\/clients\/wyncode.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2054,6 +2141,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/new-tropicana-wolfsonian.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 749627,
+		"inputAbbreviatedPath": "\/img\/portfolio\/new-tropicana-wolfsonian.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/new-tropicana-wolfsonian.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/ourmiami-thumbnail.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2248,6 +2346,17 @@
 		"initialSize": 481401,
 		"inputAbbreviatedPath": "\/img\/tnt_header_drkr.jpg",
 		"outputAbbreviatedPath": "\/img\/tnt_header_drkr.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wbu_header_drkr.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165831,
+		"inputAbbreviatedPath": "\/img\/wbu_header_drkr.jpg",
+		"outputAbbreviatedPath": "\/img\/wbu_header_drkr.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
