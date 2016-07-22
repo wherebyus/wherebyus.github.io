@@ -282,7 +282,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(img/header-bgy.jpg);
+    background-image: url(img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -665,6 +665,7 @@ ul.social-buttons li a:active {
     margin: auto;
     margin-bottom: 4em;
 }
+
 .blog-entry .author{
     font-size: 80%;
     text-transform: uppercase;
@@ -681,6 +682,12 @@ ul.social-buttons li a:active {
         width: 45%;
         margin: 0 5% 4em 0;
         float: left;
+        height: 500px;
+    }
+}
+@media(min-width:992px) {
+    .blog-entry{
+        height: 700px;
     }
 }
 
