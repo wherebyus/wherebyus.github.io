@@ -96,5 +96,5 @@ address:
 markdown: kramdown
 permalink: pretty
 
-gems: ['kramdown']
+gems: ['kramdown', 'jekyll-redirect-from']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
