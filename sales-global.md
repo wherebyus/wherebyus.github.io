@@ -3,11 +3,8 @@ layout: sales
 title: WhereBy Us
 subtitle: WhereBy Us
 logo: whereby
-<<<<<<< HEAD
-=======
-city: global
->>>>>>> sales
 permalink: /sales/
+city: global
 
 client:
   - name: lyft
