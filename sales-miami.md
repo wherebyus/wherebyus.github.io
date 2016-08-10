@@ -2,7 +2,7 @@
 layout: sales
 title: The New Tropic
 subtitle: The New Tropic 
-permalink: /sales/miami/
+<!-- permalink: /sales/miami/ -->
 city: miami
 logo: miami
 favicon: miami_
