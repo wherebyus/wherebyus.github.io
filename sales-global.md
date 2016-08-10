@@ -1,7 +1,7 @@
 ---
 layout: sales
-title: WhereBy Us
-subtitle: WhereBy Us
+title: WhereBy.Us
+subtitle: WhereBy.Us
 logo: whereby
 permalink: /sales/
 city: global
