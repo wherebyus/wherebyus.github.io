@@ -200,15 +200,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_includes\/sales\/wbu-header.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_includes\/sales\/wbu-header.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_includes\/services.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -250,15 +241,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_layouts\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_layouts\/wbu-sales.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/wbu-sales.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -391,6 +373,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/homepage-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184677,
+		"inputAbbreviatedPath": "\/_site\/homepage-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/homepage-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/_site\/img\/about\/1.jpg": {
 		"fileType": 16384,
@@ -645,6 +638,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/header-image-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 364727,
+		"inputAbbreviatedPath": "\/_site\/img\/header-image-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/header-image-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/header-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142865,
+		"inputAbbreviatedPath": "\/_site\/img\/header-image.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/header-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/homepage-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184677,
+		"inputAbbreviatedPath": "\/_site\/img\/homepage-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/homepage-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/homepage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 473398,
+		"inputAbbreviatedPath": "\/_site\/img\/homepage.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/homepage.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/knight.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -887,6 +924,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/portfolio\/el-tamalero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261781,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/el-tamalero.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/el-tamalero.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/portfolio\/escape-thumbnail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -909,6 +957,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/portfolio\/florida-grand-opera.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 416891,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/florida-grand-opera.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/florida-grand-opera.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/portfolio\/golden-thumbnail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -927,6 +986,28 @@
 		"initialSize": 177338,
 		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/golden.png",
 		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/golden.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/idea-center.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112158,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/idea-center.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/idea-center.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/miami-explore-o-matic.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 465518,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/miami-explore-o-matic.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/miami-explore-o-matic.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1004,6 +1085,17 @@
 		"initialSize": 262606,
 		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/ourmiami.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/ourmiami.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/road-trip.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 441245,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/road-trip.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/road-trip.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1257,6 +1349,28 @@
 		"initialSize": 3294,
 		"inputAbbreviatedPath": "\/_site\/img\/urban.us.png",
 		"outputAbbreviatedPath": "\/_site\/img\/urban.us.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/users.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42959,
+		"inputAbbreviatedPath": "\/_site\/img\/users.png",
+		"outputAbbreviatedPath": "\/_site\/img\/users.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wbu-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2242,
+		"inputAbbreviatedPath": "\/_site\/img\/wbu-icon.png",
+		"outputAbbreviatedPath": "\/_site\/img\/wbu-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1606,6 +1720,17 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_site\/road-trip.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 441245,
+		"inputAbbreviatedPath": "\/_site\/road-trip.png",
+		"outputAbbreviatedPath": "\/_site\/road-trip.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/sales-global.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1872,6 +1997,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/users.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145246,
+		"inputAbbreviatedPath": "\/_site\/users.png",
+		"outputAbbreviatedPath": "\/_site\/users.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/css\/font-awesome\/css\/font-awesome.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -1950,6 +2086,50 @@
 		"initialSize": 7.93125e+06,
 		"inputAbbreviatedPath": "\/img\/header-bgy.jpg",
 		"outputAbbreviatedPath": "\/img\/header-bgy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/header-image-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 364727,
+		"inputAbbreviatedPath": "\/img\/header-image-2.jpg",
+		"outputAbbreviatedPath": "\/img\/header-image-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/header-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142865,
+		"inputAbbreviatedPath": "\/img\/header-image.jpg",
+		"outputAbbreviatedPath": "\/img\/header-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/homepage-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184677,
+		"inputAbbreviatedPath": "\/img\/homepage-2.jpg",
+		"outputAbbreviatedPath": "\/img\/homepage-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/homepage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 473398,
+		"inputAbbreviatedPath": "\/img\/homepage.jpg",
+		"outputAbbreviatedPath": "\/img\/homepage.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2053,6 +2233,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/el-tamalero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261781,
+		"inputAbbreviatedPath": "\/img\/portfolio\/el-tamalero.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/el-tamalero.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/escape-thumbnail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2075,6 +2266,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/florida-grand-opera.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 416891,
+		"inputAbbreviatedPath": "\/img\/portfolio\/florida-grand-opera.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/florida-grand-opera.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/golden-thumbnail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2093,6 +2295,28 @@
 		"initialSize": 177338,
 		"inputAbbreviatedPath": "\/img\/portfolio\/golden.png",
 		"outputAbbreviatedPath": "\/img\/portfolio\/golden.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/idea-center.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112158,
+		"inputAbbreviatedPath": "\/img\/portfolio\/idea-center.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/idea-center.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/miami-explore-o-matic.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 465518,
+		"inputAbbreviatedPath": "\/img\/portfolio\/miami-explore-o-matic.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/miami-explore-o-matic.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2170,6 +2394,17 @@
 		"initialSize": 262606,
 		"inputAbbreviatedPath": "\/img\/portfolio\/ourmiami.jpg",
 		"outputAbbreviatedPath": "\/img\/portfolio\/ourmiami.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/road-trip.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 441245,
+		"inputAbbreviatedPath": "\/img\/portfolio\/road-trip.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/road-trip.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2346,6 +2581,17 @@
 		"initialSize": 481401,
 		"inputAbbreviatedPath": "\/img\/tnt_header_drkr.jpg",
 		"outputAbbreviatedPath": "\/img\/tnt_header_drkr.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wbu-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2187,
+		"inputAbbreviatedPath": "\/img\/wbu-icon.png",
+		"outputAbbreviatedPath": "\/img\/wbu-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2634,75 +2880,6 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/sales-seattle.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sales-seattle.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/sales-seattle.md": {
-		"criticStyle": 0,
-		"enableFootnotes": 1,
-		"enableLabels": 1,
-		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sales-seattle.md",
-		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/sales-seattle.html",
-		"outputFormat": 0,
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"parseMetadata": 1,
-		"processHTML": 0,
-		"randomFootnoteNumbers": 0,
-		"useCompatibilityMode": 0
-		},
-	"\/sales_atlanta.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sales_atlanta.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/sales_atlanta.md": {
-		"criticStyle": 0,
-		"enableFootnotes": 1,
-		"enableLabels": 1,
-		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/sales_atlanta.md",
-		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/sales_atlanta.html",
-		"outputFormat": 0,
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"parseMetadata": 1,
-		"processHTML": 0,
-		"randomFootnoteNumbers": 0,
-		"useCompatibilityMode": 0
-		},
-	"\/seattle.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/seattle.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/style.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -2721,7 +2898,7 @@
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
 	"displayValue": "wherebyus.github.io",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "globe_gray"
 	},
 "projectSettings": {
