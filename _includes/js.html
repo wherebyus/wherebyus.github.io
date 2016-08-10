@@ -34,8 +34,8 @@
     <!-- Chart.js JavaScript -->
     <script src="{{ "/js/Chart.min.js" | prepend: site.baseurl }}"></script>
     <script>
-        var color = "{{page.color}}";
-        var color_hover = "{{page.color-hover}}";
+        var color = "#f8d04d";
+        var color_hover = "#f2c42d";
 
         var inView = false;
 
@@ -116,13 +116,9 @@
                 data.items[i].link + '" >' +
                 data.items[i].title + '</h3></a>'+
                 '<p class="author text-muted"> By ' + data.items[i].author + '</p>' + data.items[i].description + '</div>';
-
             }
-
             content.innerHTML = output;
-
             }
-
         }
     </script>
 
