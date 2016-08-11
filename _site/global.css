@@ -228,7 +228,7 @@ path {fill: #333  !important;}
 }
 
 /* iPhone */
-@media(max-width: 400px) {
+@media(max-width: 415px) {
 
   .navbar-default {
     background-color: transparent;
@@ -255,7 +255,11 @@ path {fill: #333  !important;}
     height: 150px;
   }
 
- div.col-md-3.services.middle {
+  div.col-sm-6.col-md-3.services.middle.second-service {
+    margin-top: 30px;
+  }
+
+  div.col-md-3.services.middle {
     padding-top: 130px;
   }
 
@@ -301,7 +305,7 @@ path {fill: #333  !important;}
 }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 415px) {
   div.col-md-4.intro-text {
     margin-top: 0px; 
     margin-left: 0px; 
@@ -319,4 +323,16 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 ::selection{
       background: #ededed;;
 }
+
+
+
+.wf-loading .intro-heading,
+.wf-loading .navbar-brand.page-scroll,
+.wf-loading nav.navbar-nav.navbar-right,
+.wf-loading h2,
+.wf-loading a {
+/* Hide the blog title and post titles while web fonts are loading */
+   visibility: hidden;
+ }
+
 
