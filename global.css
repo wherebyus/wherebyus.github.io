@@ -138,7 +138,7 @@ section h3.section-subheading {
 }
 
 .numbers {
-  font-family: "din-condensed-web", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "din-next-pro-medium", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 30px
 }
 
@@ -312,7 +312,6 @@ path {fill: #333  !important;}
 
 
 @media only screen 
-
 and (min-device-width : 540px) 
 and (max-device-width : 736px) 
 and (orientation : landscape) { 
