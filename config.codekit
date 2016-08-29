@@ -338,6 +338,33 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/css\/font-awesome\/css\/font-awesome.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/css\/font-awesome\/css\/font-awesome.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/css\/font-awesome\/css\/font-awesome.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/css\/font-awesome\/css\/font-awesome.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/global.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/global.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/guide\/2015\/12\/01\/lyft-guides-neighborhoods\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -354,6 +381,50 @@
 		"initialSize": 184677,
 		"inputAbbreviatedPath": "\/_site\/homepage-2.jpg",
 		"outputAbbreviatedPath": "\/_site\/homepage-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/about\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6987,
+		"inputAbbreviatedPath": "\/_site\/img\/about\/1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/about\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/about\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15337,
+		"inputAbbreviatedPath": "\/_site\/img\/about\/2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/about\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/about\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7338,
+		"inputAbbreviatedPath": "\/_site\/img\/about\/3.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/about\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/about\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4902,
+		"inputAbbreviatedPath": "\/_site\/img\/about\/4.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/about\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -534,6 +605,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/header-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213004,
+		"inputAbbreviatedPath": "\/_site\/img\/header-bg.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/header-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/header-bg2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.37756e+06,
+		"inputAbbreviatedPath": "\/_site\/img\/header-bg2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/header-bg2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/header-bgx.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -541,6 +634,61 @@
 		"initialSize": 238317,
 		"inputAbbreviatedPath": "\/_site\/img\/header-bgx.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/header-bgx.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/header-bgy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7.93125e+06,
+		"inputAbbreviatedPath": "\/_site\/img\/header-bgy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/header-bgy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/header-image-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 364727,
+		"inputAbbreviatedPath": "\/_site\/img\/header-image-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/header-image-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/header-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142865,
+		"inputAbbreviatedPath": "\/_site\/img\/header-image.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/header-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/homepage-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184677,
+		"inputAbbreviatedPath": "\/_site\/img\/homepage-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/homepage-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/homepage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 473398,
+		"inputAbbreviatedPath": "\/_site\/img\/homepage.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/homepage.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -600,6 +748,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/logos\/miami-logo-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1256,
+		"inputAbbreviatedPath": "\/_site\/img\/logos\/miami-logo-white.png",
+		"outputAbbreviatedPath": "\/_site\/img\/logos\/miami-logo-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/logos\/miami-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1521,
+		"inputAbbreviatedPath": "\/_site\/img\/logos\/miami-logo.png",
+		"outputAbbreviatedPath": "\/_site\/img\/logos\/miami-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/logos\/microlancer.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -622,6 +792,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/logos\/whereby-logo-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17628,
+		"inputAbbreviatedPath": "\/_site\/img\/logos\/whereby-logo-white.png",
+		"outputAbbreviatedPath": "\/_site\/img\/logos\/whereby-logo-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/logos\/whereby-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18072,
+		"inputAbbreviatedPath": "\/_site\/img\/logos\/whereby-logo.png",
+		"outputAbbreviatedPath": "\/_site\/img\/logos\/whereby-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/logos\/wordpress.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -640,6 +832,17 @@
 		"initialSize": 61225,
 		"inputAbbreviatedPath": "\/_site\/img\/lyft.png",
 		"outputAbbreviatedPath": "\/_site\/img\/lyft.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/map-image.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 364038,
+		"inputAbbreviatedPath": "\/_site\/img\/map-image.png",
+		"outputAbbreviatedPath": "\/_site\/img\/map-image.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -688,6 +891,358 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/portfolio\/avenue-thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 173107,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/avenue-thumbnail.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/avenue-thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/avenue.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 349315,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/avenue.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/avenue.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/dreams-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62658,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/dreams-thumbnail.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/dreams-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/dreams.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112060,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/dreams.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/dreams.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/el-tamalero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261781,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/el-tamalero.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/el-tamalero.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/escape-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85423,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/escape-thumbnail.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/escape-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/escape.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165358,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/escape.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/escape.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/florida-grand-opera.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 416891,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/florida-grand-opera.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/florida-grand-opera.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/golden-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93325,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/golden-thumbnail.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/golden-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/golden.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177338,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/golden.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/golden.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/idea-center.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112158,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/idea-center.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/idea-center.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/miami-explore-o-matic.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 465518,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/miami-explore-o-matic.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/miami-explore-o-matic.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/miamiland-thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208197,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/miamiland-thumbnail.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/miamiland-thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/miamiland.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 419075,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/miamiland.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/miamiland.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/neighborhoods-thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177157,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/neighborhoods-thumbnail.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/neighborhoods-thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/neighborhoods.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 338899,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/neighborhoods.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/neighborhoods.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/new-tropicana-wolfsonian.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 749627,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/new-tropicana-wolfsonian.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/new-tropicana-wolfsonian.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/ourmiami-thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 143927,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/ourmiami-thumbnail.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/ourmiami-thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/ourmiami.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262606,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/ourmiami.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/ourmiami.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/road-trip.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 441245,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/road-trip.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/road-trip.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/roundicons-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120066,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/roundicons-thumbnail.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/roundicons-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/roundicons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 259234,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/roundicons.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/roundicons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/startup-framework-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187564,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/startup-framework-thumbnail.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/startup-framework-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/startup-framework.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262195,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/startup-framework.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/startup-framework.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/startup-thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152755,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/startup-thumbnail.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/startup-thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/startup-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152755,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/startup-thumbnail.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/startup-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/startup.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 273759,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/startup.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/startup.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/startup.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 273759,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/startup.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/startup.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/tnt-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72183,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/tnt-thumbnail.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/tnt-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/tnt.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119363,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/tnt.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/tnt.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/treehouse-thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80328,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/treehouse-thumbnail.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/treehouse-thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/treehouse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151139,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/treehouse.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/treehouse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/seattle_header.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -721,6 +1276,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/team\/1x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11310,
+		"inputAbbreviatedPath": "\/_site\/img\/team\/1x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/team\/1x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/team\/2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14401,
+		"inputAbbreviatedPath": "\/_site\/img\/team\/2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/team\/2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/team\/3x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12159,
+		"inputAbbreviatedPath": "\/_site\/img\/team\/3x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/team\/3x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/tnt_header-drk.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -739,6 +1327,17 @@
 		"initialSize": 1.00206e+06,
 		"inputAbbreviatedPath": "\/_site\/img\/tnt_header.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/tnt_header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/tnt_header_drkr.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 481401,
+		"inputAbbreviatedPath": "\/_site\/img\/tnt_header_drkr.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/tnt_header_drkr.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -776,6 +1375,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/wbu-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2242,
+		"inputAbbreviatedPath": "\/_site\/img\/wbu-icon.png",
+		"outputAbbreviatedPath": "\/_site\/img\/wbu-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/wbu_header_drk.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -783,6 +1393,28 @@
 		"initialSize": 165831,
 		"inputAbbreviatedPath": "\/_site\/img\/wbu_header_drk.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/wbu_header_drk.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wbu_header_drkr.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165831,
+		"inputAbbreviatedPath": "\/_site\/img\/wbu_header_drkr.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wbu_header_drkr.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wbu_share_img.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.01248e+06,
+		"inputAbbreviatedPath": "\/_site\/img\/wbu_share_img.png",
+		"outputAbbreviatedPath": "\/_site\/img\/wbu_share_img.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -842,6 +1474,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/whereby_logo_gold.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3264,
+		"inputAbbreviatedPath": "\/_site\/img\/whereby_logo_gold.png",
+		"outputAbbreviatedPath": "\/_site\/img\/whereby_logo_gold.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/whereby_logo_white.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -873,6 +1516,105 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/js\/agency.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/agency.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/agency-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/bootstrap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/bootstrap.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/bootstrap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/bootstrap.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/bootstrap.min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/bootstrap.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/cbpAnimatedHeader.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/cbpAnimatedHeader.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/cbpAnimatedHeader-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/cbpAnimatedHeader.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/cbpAnimatedHeader.min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/cbpAnimatedHeader.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/Chart.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/Chart.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/Chart-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/Chart.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/Chart.min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/Chart.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/classie.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/classie.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/classie-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/contact_me.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/contact_me.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/contact_me-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_site\/js\/formValidation.min.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -883,6 +1625,59 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/jqBootstrapValidation.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/jqBootstrapValidation.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/jqBootstrapValidation-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/jquery-1.11.0.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/jquery-1.11.0.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/jquery-1.11.0-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/jquery.easing.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/jquery.easing.min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/jquery.easing.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/masonry.pkgd.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/masonry.pkgd.min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/masonry.pkgd.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/mail\/contact_me.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/mail\/contact_me.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/miami-logo-white.png": {
 		"fileType": 32768,
@@ -906,6 +1701,36 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/miami.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/miami.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/_site\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/_site\/road-trip.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -917,6 +1742,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/sales-atlanta.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/sales-atlanta.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/sales-atlanta\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -926,11 +1760,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/sales-global.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/sales-global.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/sales-global\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/sales-global\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/sales-miami.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/sales-miami.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -970,6 +1822,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/sales-national.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/sales-seattle.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/sales-seattle.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
