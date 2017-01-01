@@ -1,9 +1,11 @@
 ---
-layout: wbu-sales
-title: WhereBy Us Sales
-subtitle: WhereBy Us
+layout: sales
+title: WhereBy.Us
+subtitle: WhereBy.Us
 logo: whereby
 permalink: /sales/
+city: global
+redirect_from: /work/
 
 client:
   - name: lyft

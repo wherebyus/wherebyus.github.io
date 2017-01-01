@@ -5,18 +5,92 @@ html { overflow-y: scroll; }
 body { font-family: sans-serif; }
 
 header {
-  background-image: url(/img/wbu_header_drkr.jpg);
+  margin-top:80px;
+  background-image: url(/img/header-image-2.jpg);
+}
+
+#contact {
+  background: #333;
+  background-image: url(/img/map-image.png);
+}
+
+.navbar-default {
+  padding-bottom: 5px;
+  padding-top: 12px;
+}
+
+header .intro-text{
+  padding-top: 90px;
+  padding-bottom: 50px
 }
 
 .navbar-default.navbar-shrink {
   background-color: white;
+  position: fixed;
 }
 .navbar-default.navbar-shrink li.active a.page-scroll {
-  color: white;
+  color:  #333;
+}
+
+.navbar-default {
+  background: white;
+}
+
+.fa.fa-chevron-circle-down.fa-3x {
+  color: #f8d04d;
+}
+
+.navbar-default .nav li a {
+  color: #333;
 }
 
 .navbar-default.navbar-shrink a.page-scroll { 
-  color: #f8d04d;
+  color: #333;
+}
+
+.navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  background: transparent;
+}
+
+.navbar-default .nav li a:hover, .navbar-default .nav li a:focus {
+    outline: 0;
+    color: #111;
+}
+
+a {
+  color: #333;
+}
+
+a:hover, a:visited, a:active {
+  color: #333;
+}
+
+a.navbar-brand.page-scroll, 
+a.navbar-brand.page-scroll:hover, 
+a.navbar-brand.page-scroll:focus, 
+a.navbar-brand.page-scroll:active {
+  color: #333;
+}
+
+li a.page-scroll {
+     padding-bottom: 3px;
+}
+
+.navbar-default .navbar-nav>.active>a {
+  background: transparent;
+  color: black;
+  border-bottom: solid 3px #333;
+}
+
+.navbar-default.navbar-shrink li.active a.page-scroll {
+  color: black;
+  padding-left: 5px;
+  padding-right: 5px;
+ /* margin-right: 15px;*/
+}
+
+a#link span:hover {
+    color: #333;
 }
 
 a#link {
@@ -40,9 +114,19 @@ p {
 }
 
 .col-md-4.intro-text {
-  margin-top: 40px; 
-  margin-left: 100px;
+  margin-top: 70px; 
+  margin-left:100px;
   text-align: left;
+}
+
+.services { 
+  padding-left: 33px;
+  padding-right: 33px;
+}
+
+section#services {
+  padding-bottom: 0px;
+  height: 860px;
 }
   
 section h3.section-subheading {
@@ -54,8 +138,8 @@ section h3.section-subheading {
 }
 
 .numbers {
-  font-family: "din-condensed-web", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 40px
+  font-family: "din-next-pro-medium", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 30px
 }
 
 ul.item-details, ul.item-details {
@@ -118,8 +202,8 @@ ul.item-details, ul.item-details {
   max-width: 100%;
 }
 
-path {fill: #f2c42d  !important;}
-.st1 {fill: #f2c42d  !important;}
+path {fill: #333  !important;}
+.st1 {fill: #333 !important;}
 
 
 /* iPad mini */
@@ -139,7 +223,7 @@ path {fill: #f2c42d  !important;}
 }
 
 /* iPhone */
-@media(max-width: 400px) {
+@media(max-width: 415px) {
 
   .navbar-default {
     background-color: transparent;
@@ -154,15 +238,52 @@ path {fill: #f2c42d  !important;}
     margin: 0px;
   }
   h2.service-heading.intro {
-    margin-left: 49px;
+    margin-left: 20px;
     text-transform: uppercase;
+    text-align: center
   }
+  p.text-muted {
+    text-align: center;
+  }
+
   section#services div.container div.row:first-child  {
-    height: 192px;
+    height: 150px;
   }
+
+  div.col-sm-6.col-md-3.services.middle.second-service {
+    margin-top: 30px;
+  }
+
+  div.col-md-3.services.middle {
+    padding-top: 130px;
+  }
+
   section#services div.container div.row.text-center div.col-md-3  {
-    height: 500px;
+    height: 350px;
+    padding-top: 100px;
   }
+
+  section#services {
+    height:1880px
+  }
+
+  section#clients {
+    height: 750px;
+  }
+
+  section#services div.container div.row.text-center div.col-md-3:last-child { 
+    height: 500px;
+    padding-top: 150px;
+  }
+
+  img {
+    width: 75%;
+  }
+
+  h2.service-heading {
+    text-align:; center;
+  }
+
   .grid-sizer, .grid-item {
     width: 50%;
   }
@@ -174,9 +295,12 @@ path {fill: #f2c42d  !important;}
     margin-left: 109px;
     text-transform: uppercase;
   }
+  .navbar-default .navbar-collapse {
+    background-color: beige;
+}
 }
 
-@media (max-width: 400px) {
+@media (max-width: 415px) {
   div.col-md-4.intro-text {
     margin-top: 0px; 
     margin-left: 0px; 
@@ -185,5 +309,58 @@ path {fill: #f2c42d  !important;}
     padding: 60px 0;
   }
 }
+
+
+@media only screen 
+and (min-device-width : 540px) 
+and (max-device-width : 736px) 
+and (orientation : landscape) { 
+    #services.bg-light-gray{
+        height: 1700px;
+      }
+    .col-md-3.services {
+      height: 340px;
+    }
+    h3.section-subheading.text-muted {
+      margin-bottom: 40px;
+    }
+    .col-md-3.services:last-child {
+      margin-top: 35px;
+    }
+    .service-heading, .text-muted {
+      text-align: center;
+    }
+    .col-md-4.intro-text {
+      margin-left: 0px;
+      padding-left: 100px;
+      padding-right: 100px;
+    }
+    ul {
+      list-style: none;
+    }
+    section {
+    padding: 60px 0;
+}
+
+
+
+ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active {
+  background-color: #666;
+}
+
+::selection{
+      background: #ededed;;
+}
+
+
+
+.wf-loading .intro-heading,
+.wf-loading .navbar-brand.page-scroll,
+.wf-loading nav.navbar-nav.navbar-right,
+.wf-loading h2,
+.wf-loading a {
+/* Hide the blog title and post titles while web fonts are loading */
+   visibility: hidden;
+ }
 
 
