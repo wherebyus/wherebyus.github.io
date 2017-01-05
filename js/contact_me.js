@@ -19,7 +19,7 @@ $(function() {
             }
             $.ajax({
                 dataType: 'jsonp',
-                url: "http://getsimpleform.com/messages/ajax?form_api_token=e88560792c5ee645b1e952b7a0f50fd0",
+                url: "http://getsimpleform.com/messages/ajax?form_api_token=5de872ca17ea9c5f1bdeb642027a66b6",
                 data: {
                     name: name,
                     phone: phone,
