@@ -1,8 +1,8 @@
 ---
 title: Startup Guide
-subtitle: Spotlight on innovation
+subtitle: Engaging the startup community
 layout: default
-modal-id: 6
+modal-id: 2
 date: 2015-09-01
 img: startup.png
 thumbnail: startup-thumbnail.png
