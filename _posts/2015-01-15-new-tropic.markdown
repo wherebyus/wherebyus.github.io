@@ -2,7 +2,7 @@
 title: The New Tropic
 subtitle: Media and events for Miami, by Miami
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2015-01-12
 img: tnt.png
 thumbnail: tnt-thumbnail.png

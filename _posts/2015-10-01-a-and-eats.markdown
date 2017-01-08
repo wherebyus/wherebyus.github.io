@@ -1,6 +1,6 @@
 ---
 title: A+Eats
-subtitle: Cooking up community
+subtitle: A contest to find Miami's next great restaurant
 layout: default
 modal-id: 3
 date: 2015-09-01

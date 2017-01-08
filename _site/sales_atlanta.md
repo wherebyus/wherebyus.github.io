@@ -1,1 +1,0 @@
-sales_atlanta.md
