@@ -6,7 +6,7 @@ modal-id: 6
 date: 2016-08-01
 img: transit.png
 thumbnail: transit-thumbnail.png
-alt: Building engagement with locals through creative storytelling 
+alt: A project with local artists and transit
 project-date: August 2016 to present
 project-url: https://www.facebook.com/newtropicmiami/videos/vb.694644943939103/1079724568764470/?type=3&theater
 description:  How do you change a city's conversation about transit? We worked with Miami-Dade County's Department of Transportation and Public Works to do just that. We started with human-centered research into how locals think about and use transportation, then leveraged those insights to design a campaign that included data journalism, multimedia storytelling, and experiential activations with our partners at Prism Creative Group. To date we've reached more than a million locals with new engagements on a complex local issue, and built lasting community connections in the process.
