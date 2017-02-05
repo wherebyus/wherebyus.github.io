@@ -1,7 +1,7 @@
 ---
-layout: sales
+layout: studio
 title: Seattle Sales
-permalink: /sales/seattle/
+<!-- permalink: /studio/seattle/ -->
 subtitle: Seattle
 city: seattle
 favicon: seattle_

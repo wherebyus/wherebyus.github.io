@@ -114,7 +114,7 @@ p {
 }
 
 .col-md-4.intro-text {
-  margin-top: 70px; 
+  /*margin-top: 70px; */
   margin-left:100px;
   text-align: left;
 }
@@ -273,7 +273,7 @@ path {fill: #333  !important;}
 
   section#services div.container div.row.text-center div.col-md-3:last-child { 
     height: 500px;
-    padding-top: 150px;
+    padding-top: 180px;
   }
 
   img {

@@ -1,11 +1,11 @@
 ---
-layout: sales
+layout: studio
 title: WhereBy.Us
 subtitle: WhereBy.Us
 logo: whereby
-permalink: /sales/
+permalink: /studio/
 city: global
-redirect_from: /work/
+redirect_from: /sales/
 
 client:
   - name: lyft

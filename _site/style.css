@@ -652,7 +652,8 @@ ul.social-buttons li a:active {
     }
 }
 
-@media(min-width:1200px) {
+@media( min-width:1200px ) {
+    
     .timeline>li {
         min-height: 170px;
     }

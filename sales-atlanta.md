@@ -1,7 +1,7 @@
 ---
-layout: sales
+layout: studio
 title: Atlanta Sales
-permalink: /sales/atlanta/
+<!-- permalink: /studio/atlanta/ -->
 subtitle: Atlanta
 city: atlanta
 favicon: atlanta_

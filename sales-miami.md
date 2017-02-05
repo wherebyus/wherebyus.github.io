@@ -1,8 +1,8 @@
 ---
-layout: sales
+layout: studio
 title: The New Tropic
 subtitle: The New Tropic 
-<!-- permalink: /sales/miami/ -->
+permalink: /studio/miami/
 city: miami
 logo: miami
 favicon: miami_
