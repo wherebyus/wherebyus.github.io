@@ -382,6 +382,7 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+    text-align: center;
 }
 
 #portfolio .portfolio-item {
@@ -646,7 +647,7 @@ ul.social-buttons li a:active {
 }
 
 @media( min-width:1200px ) {
-    
+
     .timeline>li {
         min-height: 170px;
     }
@@ -685,6 +686,7 @@ ul.social-buttons li a:active {
     width: 100%;
     height: 100%;
 }
+
 @media(min-width:767px) {
     .blog-entry{
         width: 45%;

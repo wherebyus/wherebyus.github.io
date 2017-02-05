@@ -292,8 +292,7 @@ path {fill: #333  !important;}
   }
   section#audience div.container div.row div.col-md-4 h2.service-heading.text-left {
     margin-top: 44px;
-    margin-left: 109px;
-    text-transform: uppercase;
+    text-align: center;
   }
   .navbar-default .navbar-collapse {
     background-color: beige;
