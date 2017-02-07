@@ -18,7 +18,6 @@
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" href="/global.css">
-<!--     <link rel="stylesheet" href="/{{page.city}}.css"> -->
 
     <!-- Custom Fonts -->
     <link rel="stylesheet" href="{{ "/css/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
@@ -29,6 +28,19 @@
     <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
     <script src="https://use.typekit.net/nio7ofb.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+
+    <style>
+        .wf-loading .navbar-default .navbar-brand {
+            visibility: hidden;
+        }
+        .wf-active  .navbar-default .navbar-brand {
+            visibility: visible;
+        }
+        .wf-inactive .navbar-default .navbar-brand {
+            visibility: visible;
+        }
+    </style>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
