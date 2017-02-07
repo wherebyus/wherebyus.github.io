@@ -308,6 +308,19 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+@media only screen and ( max-width: 415px ) {
+    h2.service-heading.text-left {
+        text-align: center;
+    }
+    h2.service-heading.audience.text-left {
+        text-align: center;
+    }
+
+section#services {
+    height: 2000px;
+}
+}
+
 header {
     text-align: center;
     color: #fff;
@@ -351,7 +364,7 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
-@media(min-width:768px) {
+@media( min-width: 768px ) {
 
     header .intro-text {
         padding-top: 300px;
@@ -396,7 +409,7 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
-@media(min-width:768px) {
+@media( min-width: 768px ) {
     section {
         padding: 150px 0;
     }
@@ -486,7 +499,7 @@ section h3.section-subheading {
     z-index: 2;
 }
 
-@media(min-width: 767px) {
+@media( min-width: 767px ) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
@@ -611,7 +624,7 @@ ul.social-buttons li a:active {
     margin-bottom: 0;
 }
 
-@media(min-width:768px) {
+@media( min-width: 768px ) {
     .timeline:before {
         left: 50%;
     }
@@ -648,7 +661,7 @@ ul.social-buttons li a:active {
     }
 }
 
-@media(min-width:992px) {
+@media( min-width: 992px ) {
     .timeline>li {
         min-height: 150px;
     }
@@ -674,7 +687,7 @@ ul.social-buttons li a:active {
     }
 }
 
-@media( min-width:1200px ) {
+@media( min-width: 1200px ) {
 
     .timeline>li {
         min-height: 170px;
@@ -715,7 +728,7 @@ ul.social-buttons li a:active {
     height: 100%;
 }
 
-@media(min-width:767px) {
+@media( min-width: 767px ) {
     .blog-entry{
         width: 45%;
         margin: 0 5% 4em 0;
@@ -723,7 +736,7 @@ ul.social-buttons li a:active {
         height: 500px;
     }
 }
-@media(min-width:992px) {
+@media( min-width: 992px ) {
     .blog-entry{
         height: 700px;
     }

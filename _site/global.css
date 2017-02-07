@@ -86,7 +86,6 @@ li a.page-scroll {
   color: black;
   padding-left: 5px;
   padding-right: 5px;
- /* margin-right: 15px;*/
 }
 
 a#link span:hover {
@@ -114,7 +113,6 @@ p {
 }
 
 .col-md-4.intro-text {
-  /*margin-top: 70px; */
   margin-left:100px;
   text-align: left;
 }
@@ -247,33 +245,23 @@ path {fill: #333  !important;}
   }
 
   section#services div.container div.row:first-child  {
-    height: 150px;
-  }
-
-  div.col-sm-6.col-md-3.services.middle.second-service {
-    margin-top: 30px;
-  }
-
-  div.col-md-3.services.middle {
-    padding-top: 130px;
+    height: 300px;
   }
 
   section#services div.container div.row.text-center div.col-md-3  {
-    height: 350px;
-    padding-top: 100px;
+    height: 400px;
+  }
+  section#services div.container div.row.text-center div.col-md-3.create-service {
+    height: 430px;
   }
 
+
   section#services {
-    height:1880px
+    height: 2000px
   }
 
   section#clients {
     height: 750px;
-  }
-
-  section#services div.container div.row.text-center div.col-md-3:last-child { 
-    height: 500px;
-    padding-top: 180px;
   }
 
   img {
@@ -288,7 +276,7 @@ path {fill: #333  !important;}
     width: 50%;
   }
   section#audience div.container div.row:first-child {
-    height: 247px;
+    height: 300px;
   }
   section#audience div.container div.row div.col-md-4 h2.service-heading.text-left {
     margin-top: 44px;
