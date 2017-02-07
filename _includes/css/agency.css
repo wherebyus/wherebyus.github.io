@@ -11,7 +11,6 @@
     font-style: normal;
 }
 
-
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -254,7 +253,32 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.color.secondary }};
 }
 
-@media(min-width:768px) {
+@media only screen and ( min-width: 768px ) and ( max-width: 1200px) {
+    #creative-studio {
+        font-size: 1.3em;
+    }
+}
+
+@media only screen and ( min-width: 750px ) and ( max-width: 1000px) {
+    .container.creative-studio {
+        margin-left: 0;
+        width: 100%;
+    }
+    .container.creative-studio ul li a.page-scroll {
+        font-size: 12px;
+    }
+    .portfolio-caption p.text-muted.small {
+        font-size: 12px;
+    }
+    #services.bg-light-gray  {
+        height: 1400px;
+    }
+    #services.bg-light-gray .col-md-3.services {
+        height: 400px;
+    }
+}
+
+@media( min-width: 840px ) {
     .navbar-default {
         padding: 25px 0;
         border: 0;
@@ -263,7 +287,6 @@ fieldset[disabled] .btn-xl.active {
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
-
     .navbar-default .navbar-brand {
         font-size: 2.3em;
         -webkit-transition: all .3s;
@@ -463,7 +486,7 @@ section h3.section-subheading {
     z-index: 2;
 }
 
-@media(min-width:767px) {
+@media(min-width: 767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
