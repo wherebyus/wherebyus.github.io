@@ -322,7 +322,6 @@ fieldset[disabled] .btn-xl.active {
     h2.service-heading.audience.text-left {
         text-align: center;
     }
-
 section#services {
     height: 2000px;
 }
@@ -745,7 +744,8 @@ ul.social-buttons li a:active {
 }
 @media( min-width: 992px ) {
     .blog-entry{
-        height: 700px;
+        height: 366px;
+        padding-bottom: 50px;
     }
 }
 

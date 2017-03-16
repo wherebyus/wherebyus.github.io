@@ -1024,18 +1024,18 @@
     <!-- Display rss -->
     <script type="text/javascript">
     var content = document.getElementById('blog-feed');
-
     function showFeed(data){
         if(data.status == 'ok'){
 
             var output = '';
 
             for(var i=0;i<4;++i){
-                //console.log(i);
-                output += '<div class="blog-entry text-muted"><h3 class="blog-title"><a href="' +
-                data.items[i].link + '" >' +
-                data.items[i].title + '</h3></a>'+
-                '<p class="author text-muted"> By ' + data.items[i].author + '</p>' + data.items[i].description + '</div>';
+
+                var findImg = data.items[i].description;
+                var img = $(findImg).find('img').eq(0).attr('src'); //i use jquery to find 1st img src
+
+                output += '<div class="blog-entry text-muted"><img width="200px" src="'+img+'" alt="#" /><h3 class="blog-title"><a href="' + data.items[i].link + '" >' + data.items[i].title + '</h3></a>'+
+                '<p class="author text-muted"> By ' + data.items[i].author + '</p></div>';
             }
             content.innerHTML = output;
             }
@@ -1051,45 +1051,44 @@
     </script>
 
     <script>
+        $(function(){
+        jQuery('img.svg').each(function(){
+            var $img = jQuery(this);
+            var imgID = $img.attr('id');
+            var imgClass = $img.attr('class');
+            var imgURL = $img.attr('src');
 
-$(function(){
-    jQuery('img.svg').each(function(){
-        var $img = jQuery(this);
-        var imgID = $img.attr('id');
-        var imgClass = $img.attr('class');
-        var imgURL = $img.attr('src');
-    
-        jQuery.get(imgURL, function(data) {
-            // Get the SVG tag, ignore the rest
-            var $svg = jQuery(data).find('svg');
-    
-            // Add replaced image's ID to the new SVG
-            if(typeof imgID !== 'undefined') {
-                $svg = $svg.attr('id', imgID);
-            }
-            // Add replaced image's classes to the new SVG
-            if(typeof imgClass !== 'undefined') {
-                $svg = $svg.attr('class', imgClass+' replaced-svg');
-            }
-    
-            // Remove any invalid XML tags as per http://validator.w3.org
-            $svg = $svg.removeAttr('xmlns:a');
-            
-            // Check if the viewport is set, else we gonna set it if we can.
-            if(!$svg.attr('viewBox') && $svg.attr('height') && $svg.attr('width')) {
-                $svg.attr('viewBox', '0 0 ' + $svg.attr('height') + ' ' + $svg.attr('width'))
-            }
-    
-            // Replace image with new SVG
-            $img.replaceWith($svg);
-    
-        }, 'xml');
-    
-    });
-});
-</script>
-    
-<script type="text/javascript" src="http://rss2json.com/api.json?callback=showFeed&rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2Fwhereby-us"></script>
+            jQuery.get(imgURL, function(data) {
+                // Get the SVG tag, ignore the rest
+                var $svg = jQuery(data).find('svg');
+
+                // Add replaced image's ID to the new SVG
+                if(typeof imgID !== 'undefined') {
+                    $svg = $svg.attr('id', imgID);
+                }
+                // Add replaced image's classes to the new SVG
+                if(typeof imgClass !== 'undefined') {
+                    $svg = $svg.attr('class', imgClass+' replaced-svg');
+                }
+
+                // Remove any invalid XML tags as per http://validator.w3.org
+                $svg = $svg.removeAttr('xmlns:a');
+                
+                // Check if the viewport is set, else we gonna set it if we can.
+                if(!$svg.attr('viewBox') && $svg.attr('height') && $svg.attr('width')) {
+                    $svg.attr('viewBox', '0 0 ' + $svg.attr('height') + ' ' + $svg.attr('width'))
+                }
+
+                // Replace image with new SVG
+                $img.replaceWith($svg);
+
+            }, 'xml');
+
+        });
+        });
+    </script>
+
+    <script type="text/javascript" src="http://rss2json.com/api.json?callback=showFeed&rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2Fwhereby-us"></script>
 
 
     </div>

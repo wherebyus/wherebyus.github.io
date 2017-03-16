@@ -737,7 +737,8 @@ ul.social-buttons li a:active {
 }
 @media( min-width: 992px ) {
     .blog-entry{
-        height: 700px;
+        height: 366px;
+        padding-bottom: 50px;
     }
 }
 
