@@ -3,10 +3,10 @@
   <channel>
     <title>WhereBy.Us</title>
     <description>Live Like You Live Here. We make media and experiences to help curious locals engage with their cities.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 16 Mar 2017 18:12:52 -0400</pubDate>
-    <lastBuildDate>Thu, 16 Mar 2017 18:12:52 -0400</lastBuildDate>
+    <link>https://wherebyus.github.io/</link>
+    <atom:link href="https://wherebyus.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 16 Mar 2017 18:15:42 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2017 18:15:42 -0400</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/08/01/transit/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/01/transit/</guid>
+        <link>https://wherebyus.github.io/2016/08/01/transit/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2016/08/01/transit/</guid>
         
         
       </item>
@@ -25,8 +25,8 @@
         <description>
 </description>
         <pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/12/01/lyft-guides-neighborhoods/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/01/lyft-guides-neighborhoods/</guid>
+        <link>https://wherebyus.github.io/2015/12/01/lyft-guides-neighborhoods/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2015/12/01/lyft-guides-neighborhoods/</guid>
         
         
       </item>
@@ -36,8 +36,8 @@
         <description>
 </description>
         <pubDate>Sun, 01 Nov 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2015/11/01/lyft-miamiland/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/11/01/lyft-miamiland/</guid>
+        <link>https://wherebyus.github.io/2015/11/01/lyft-miamiland/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2015/11/01/lyft-miamiland/</guid>
         
         
       </item>
@@ -47,8 +47,8 @@
         <description>
 </description>
         <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2015/09/01/a-and-eats/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/09/01/a-and-eats/</guid>
+        <link>https://wherebyus.github.io/2015/09/01/a-and-eats/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2015/09/01/a-and-eats/</guid>
         
         
       </item>
@@ -58,8 +58,8 @@
         <description>
 </description>
         <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2015/09/01/startup-guide/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/09/01/startup-guide/</guid>
+        <link>https://wherebyus.github.io/2015/09/01/startup-guide/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2015/09/01/startup-guide/</guid>
         
         
       </item>
@@ -69,8 +69,8 @@
         <description>
 </description>
         <pubDate>Mon, 12 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2015/01/12/new-tropic/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/01/12/new-tropic/</guid>
+        <link>https://wherebyus.github.io/2015/01/12/new-tropic/</link>
+        <guid isPermaLink="true">https://wherebyus.github.io/2015/01/12/new-tropic/</guid>
         
         
       </item>
