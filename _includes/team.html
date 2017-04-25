@@ -8,21 +8,25 @@
                 </div>
             </div>
             <div class="row">
-                {% for member in site.people %}
-                <div class="col-sm-4">
+                {% for entry in site.data.directory.directory %}
+                <div class="col-sm-12 col-md-4 col-lg-2">
                     <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.gif" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">{{ member.position }}</p>
+                        <img src="http://placekitten.com/g/300/300" class="img-responsive img-circle" alt="">
+                        <h4>{{ entry.[1]first }} {{ entry.[1]last }}</h4>
+                        <p class="text-muted"><em>{{ entry.[1]title }},</em>
+                       <br/>{{ entry.[1]brand }}</p>
                         <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
                             <li>
-                                <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
+                                <a href="mailto:{{ entry.[1]email }}">
+                                   <i class="fa fa-envelope" aria-hidden="true"></i>
                                 </a>
                             </li>
+                            {% for profile in entry.[1]profile_display %}
+                                <a href="{{ profile }}">
+                                    {{ profile }}: {{ entry[1].facebook }}
+                                </a>
                             {% endfor %}
-
+                            
                         </ul>
                     </div>
                 </div>

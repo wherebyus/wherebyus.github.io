@@ -731,7 +731,6 @@ ul.social-buttons li a:active {
 }
 .blog-entry img{
     width: 100%;
-    height: 100%;
 }
 
 @media( min-width: 767px ) {
@@ -740,6 +739,14 @@ ul.social-buttons li a:active {
         margin: 0 5% 4em 0;
         float: left;
         height: 500px;
+    }
+}
+@media( min-width: 768px ) {
+    .blog-entry{
+        width: 45%;
+        margin: 0 5% 4em 0;
+        float: left;
+        height: 350px;
     }
 }
 @media( min-width: 992px ) {
