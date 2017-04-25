@@ -9,7 +9,7 @@
             </div>
             <div class="row">
                 {% for entry in site.data.directory.directory %}
-                <div class="col-sm-12 col-md-4 col-lg-2">
+                <div class="col-sm-12 col-md-4 col-lg-3">
                     <div class="team-member">
                         <img src="http://placekitten.com/g/300/300" class="img-responsive img-circle" alt="">
                         <h4>{{ entry.[1]first }} {{ entry.[1]last }}</h4>
@@ -22,9 +22,12 @@
                                 </a>
                             </li>
                             {% for profile in entry.[1]profile_display %}
-                                <a href="{{ profile }}">
-                                    {{ profile }}: {{ entry[1].facebook }}
-                                </a>
+                                {% assign url = entry.[1][{{profile}}] %}
+                                <li>
+                                    <a href="{{ url }}">
+                                        <i class="fa fa-{{ profile }}"></i>
+                                    </a>
+                                </li>
                             {% endfor %}
                             
                         </ul>

@@ -18,7 +18,7 @@
         "twitter",
         "facebook",
         "instagram",
-        "LinkedIn"
+        "linkedin"
       ]
     },
     "2" : {
@@ -37,11 +37,8 @@
       "other" : "http://rebekahmonson.com",
       "profile_display" : [
         "twitter",
-        "facebook",
-        "instagram",
         "linkedin",
-        "github",
-        "other"
+        "github"
       ]
     },
     "3" : {
@@ -61,7 +58,7 @@
       "profile_display" : [
         "twitter",
         "facebook",
-        "Instagram"
+        "instagram"
       ]
     },
     "4" : {
@@ -82,7 +79,7 @@
         "twitter",
         "facebook",
         "instagram",
-        "LinkedIn"
+        "linkedin"
       ]
     },
     "5" : {
@@ -103,7 +100,7 @@
         "twitter",
         "instagram",
         "linkedin",
-        "Github"
+        "github"
       ]
     },
     "6" : {
@@ -123,7 +120,7 @@
       "profile_display" : [
         "twitter",
         "facebook",
-        "Instagram"
+        "instagram"
       ]
     },
     "7" : {
@@ -143,7 +140,7 @@
       "profile_display" : [
         "twitter",
         "facebook",
-        "Instagram"
+        "instagram"
       ]
     },
     "8" : {
@@ -164,7 +161,7 @@
         "twitter",
         "facebook",
         "instagram",
-        "LinkedIn"
+        "linkedin"
       ]
     },
     "9" : {
@@ -183,7 +180,7 @@
       "other" : "",
       "profile_display" : [
         "twitter",
-        "LinkedIn"
+        "linkedin"
       ]
     },
     "10" : {
@@ -203,7 +200,7 @@
       "profile_display" : [
         "facebook",
         "instagram",
-        "LinkedIn"
+        "linkedin"
       ]
     },
     "11" : {
@@ -223,7 +220,7 @@
       "profile_display" : [
         "twitter",
         "facebook",
-        "Instagram"
+        "instagram"
       ]
     },
     "12" : {
@@ -242,7 +239,7 @@
       "other" : "",
       "profile_display" : [
         "twitter",
-        "Instagram"
+        "instagram"
       ]
     },
     "13" : {
@@ -259,7 +256,7 @@
       "linkedin" : "https://www.linkedin.com/in/rodrigo-gonzalez-9418a43b/",
       "github" : "",
       "other" : "",
-      "profile_display" : "Instagram"
+      "profile_display" : "instagram"
     }
   }
 }
