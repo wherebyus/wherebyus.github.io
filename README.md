@@ -24,8 +24,6 @@ Images are in '/img/team/'
 
 View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
-=========
-
 For more details, read [documentation](http://jekyllrb.com/)
 
 
@@ -36,6 +34,7 @@ Here's how to update the 'Our Team' section of the site.
 
 1. Install the [Export Sheet Data](https://chrome.google.com/webstore/detail/export-sheet-data/bfdcopkbamihhchdnjghdknibmcnfplk?hl=en) Chrome extension
 2. Mozy on over to the [Staff Directory form responses spreadsheet](https://docs.google.com/a/whereby.us/spreadsheets/d/1NxR7CFAmgq12faulZE-hoSwmddhUfxm_Yf5Pm9Xc0Q0/edit?usp=sharing)
+3. Delete any rows of former staff members. 
 
 ### Crop and upload images
 
@@ -48,8 +47,8 @@ Here's how to update the 'Our Team' section of the site.
 
 For the rest of the steps, you will work on the **directory_clean** sheet
 
-1. Drag down columns to autofill new respondents
-2. Give new respondents an order position
+1. Drag down columns to autofill new staff members
+2. Give new staff members an order position
 3. Sort sheet by order to ensure it seems logical
 4. In the menu, Select `Add-Ons > Export Sheet Data > Open Sidebar`
 5. In the Export Sheet Data Sidebar, under *JSON Options*, check "Export Cell Arrays."
