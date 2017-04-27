@@ -1,262 +1,285 @@
 {
-  "directory" : {
-    "1" : {
-      "order" : 1,
-      "email" : "chris@whereby.us",
-      "first" : "Christopher",
-      "last" : "Sopher",
-      "title" : "Co-founder & CEO",
-      "brand" : "WhereBy.Us",
-      "img" : "https://drive.google.com/open?id=0B44AkN2k2QFnanNWMHJQRm9CdVk",
-      "facebook" : "https://www.facebook.com/cksopher",
-      "instagram" : "https://www.instagram.com/cksopher/",
-      "twitter" : "https://twitter.com/cksopher",
-      "linkedin" : "https://www.linkedin.com/in/cksopher",
-      "github" : "",
-      "other" : "",
-      "profile_display" : [
-        "twitter",
-        "facebook",
-        "instagram",
-        "linkedin"
-      ]
-    },
-    "2" : {
-      "order" : 2,
-      "email" : "rebekah@whereby.us",
-      "first" : "Rebekah",
-      "last" : "Monson",
-      "title" : "Co-founder & VP Product",
-      "brand" : "WhereBy.Us",
-      "img" : "https://drive.google.com/open?id=0B6MFysdbqjObTDRSUDhZUk5MZFk",
-      "facebook" : "https://www.facebook.com/rebekahmonson",
-      "instagram" : "https://www.instagram.com/rebekahmonson/",
-      "twitter" : "https://twitter.com/rsm",
-      "linkedin" : "https://www.linkedin.com/in/rmonson/",
-      "github" : "https://github.com/rebekahmonson",
-      "other" : "http://rebekahmonson.com",
-      "profile_display" : [
-        "twitter",
-        "linkedin",
-        "github"
-      ]
-    },
-    "3" : {
-      "order" : 3,
-      "email" : "bruce@whereby.us",
-      "first" : "Bruce",
-      "last" : "Pinchbeck",
-      "title" : "Co-founder & VP Creative",
-      "brand" : "WhereBy.Us",
-      "img" : "https://drive.google.com/open?id=0B1zMx18vIONpa3Nxd1pDRU5nazA",
-      "facebook" : "https://www.facebook.com/bruuuuce",
-      "instagram" : "https://www.instagram.com/brucepinchbeckjr/",
-      "twitter" : "https://twitter.com/BrucePinchbeck",
-      "linkedin" : "https://www.linkedin.com/in/brucepinchbeckjr/",
-      "github" : "",
-      "other" : "",
-      "profile_display" : [
-        "twitter",
-        "facebook",
-        "instagram"
-      ]
-    },
-    "4" : {
-      "order" : 4,
-      "email" : "adamo@whereby.us",
-      "first" : "Chris",
-      "last" : "Adamo",
-      "title" : "Director of Business Development",
-      "brand" : "WhereBy.Us",
-      "img" : "https://drive.google.com/open?id=0B7tQ9Vo7HJm8M0xVT2F3cW4xUDQ",
-      "facebook" : "https://www.facebook.com/christopheradamo",
-      "instagram" : "https://www.instagram.com/chrisadamo/",
-      "twitter" : "https://twitter.com/cadamo25",
-      "linkedin" : "https://www.linkedin.com/in/adamochris/",
-      "github" : "",
-      "other" : "",
-      "profile_display" : [
-        "twitter",
-        "facebook",
-        "instagram",
-        "linkedin"
-      ]
-    },
-    "5" : {
-      "order" : 5,
-      "email" : "ernie@whereby.us",
-      "first" : "Ernie",
-      "last" : "Hsiung",
-      "title" : "Direct of Technology",
-      "brand" : "WhereBy.Us",
-      "img" : "https://drive.google.com/open?id=0B-XOkm10hlUKc0V2OUQ0NzJxSTQ",
-      "facebook" : "https://www.facebook.com/ernie.hsiung",
-      "instagram" : "https://www.instagram.com/ernie/",
-      "twitter" : "https://twitter.com/ErnieAtLYD",
-      "linkedin" : "https://www.linkedin.com/in/erniehsiung/",
-      "github" : "https://github.com/ErnieAtLYD",
-      "other" : "",
-      "profile_display" : [
-        "twitter",
-        "instagram",
-        "linkedin",
-        "github"
-      ]
-    },
-    "6" : {
-      "order" : 6,
-      "email" : "ariel@thenewtropic.com",
-      "first" : "Ariel",
-      "last" : "Zirulnick",
-      "title" : "Executive Editor",
-      "brand" : "The New Tropic",
-      "img" : "https://drive.google.com/open?id=0B-b3wR1OfsS4ZExGcHJ2M2ExblU",
-      "facebook" : "http://www.facebook.com/azirulnick",
-      "instagram" : "http://www.instagram.com/azirulnick",
-      "twitter" : "http://www.twitter.com/azirulnick",
-      "linkedin" : "http://www.linkedin.com/azirulnick",
-      "github" : "",
-      "other" : "",
-      "profile_display" : [
-        "twitter",
-        "facebook",
-        "instagram"
-      ]
-    },
-    "7" : {
-      "order" : 7,
-      "email" : "roshan@thenewtropic.com",
-      "first" : "Roshan",
-      "last" : "Nebhrajani",
-      "title" : "Producer",
-      "brand" : "The New Tropic",
-      "img" : "https://drive.google.com/open?id=0B9576WfRTvLbZi1ueEltTTJEa2M",
-      "facebook" : "https://www.facebook.com/roshab.neb",
-      "instagram" : "https://www.instagram.com/roshnebh/",
-      "twitter" : "https://twitter.com/roshnebh",
-      "linkedin" : "https://www.linkedin.com/in/roshnebh",
-      "github" : "",
-      "other" : "",
-      "profile_display" : [
-        "twitter",
-        "facebook",
-        "instagram"
-      ]
-    },
-    "8" : {
-      "order" : 8,
-      "email" : "monica@whereby.us",
-      "first" : "Mónica",
-      "last" : "Guzmán",
-      "title" : "Executive Editor and local co-founder",
-      "brand" : "The Evergrey",
-      "img" : "https://drive.google.com/open?id=0B2uyMBl1hMtuS3B4bUZGajJFcVE",
-      "facebook" : "https://www.facebook.com/moniguzman",
-      "instagram" : "https://www.instagram.com/moniguzman/",
-      "twitter" : "https://twitter.com/moniguzman",
-      "linkedin" : "https://www.linkedin.com/in/moniguzman/",
-      "github" : "",
-      "other" : "",
-      "profile_display" : [
-        "twitter",
-        "facebook",
-        "instagram",
-        "linkedin"
-      ]
-    },
-    "9" : {
-      "order" : 9,
-      "email" : "laura@whereby.us",
-      "first" : "Laura",
-      "last" : "Courrau",
-      "title" : "Account Manager",
-      "brand" : "WhereBy.Us",
-      "img" : "https://drive.google.com/open?id=0BxMHJaWo1-pxRldqZXFLTlVVVXM",
-      "facebook" : "",
-      "instagram" : "",
-      "twitter" : "https://twitter.com/lauragcourrau",
-      "linkedin" : "https://www.linkedin.com/in/lauramgc",
-      "github" : "",
-      "other" : "",
-      "profile_display" : [
-        "twitter",
-        "linkedin"
-      ]
-    },
-    "10" : {
-      "order" : 10,
-      "email" : "megan@whereby.us",
-      "first" : "Megan",
-      "last" : "Zimroth",
-      "title" : "Event Production Manager",
-      "brand" : "WhereBy.Us",
-      "img" : "https://drive.google.com/open?id=0B-qD_uZiCLj5Z1dzZE9mZUlNZ3c",
-      "facebook" : "https://www.facebook.com/profile.php?id=5223453",
-      "instagram" : "https://www.instagram.com/azyoswife",
-      "twitter" : "",
-      "linkedin" : "https://www.linkedin.com/in/meganzimroth",
-      "github" : "",
-      "other" : "",
-      "profile_display" : [
-        "facebook",
-        "instagram",
-        "linkedin"
-      ]
-    },
-    "11" : {
-      "order" : 11,
-      "email" : "sarah@whereby.us",
-      "first" : "Sarah",
-      "last" : "Hernandez",
-      "title" : "Creative Project Manager",
-      "brand" : "WhereBy.Us",
-      "img" : "https://drive.google.com/open?id=0B3Mi9aXgxhAQdUJ6RHVrYkVXNHc",
-      "facebook" : "https://www.facebook.com/sarahmaria",
-      "instagram" : "https://www.instagram.com/smhernand/",
-      "twitter" : "https://twitter.com/sarahmhernandez",
-      "linkedin" : "",
-      "github" : "",
-      "other" : "",
-      "profile_display" : [
-        "twitter",
-        "facebook",
-        "instagram"
-      ]
-    },
-    "12" : {
-      "order" : 12,
-      "email" : "hector@whereby.us",
-      "first" : "Hector",
-      "last" : "Chacon",
-      "title" : "Graphic Designer",
-      "brand" : "WhereBy.Us",
-      "img" : "https://drive.google.com/open?id=0B2mBN1t__LSvb080OHhxSFVPTDg",
-      "facebook" : "https://www.facebook.com/hector.chacon.14203",
-      "instagram" : "https://www.instagram.com/hecsagram/",
-      "twitter" : "https://twitter.com/hectorfchacon",
-      "linkedin" : "https://www.linkedin.com/in/hector-chacon-698339ba/",
-      "github" : "",
-      "other" : "",
-      "profile_display" : [
-        "twitter",
-        "instagram"
-      ]
-    },
-    "13" : {
-      "order" : 13,
-      "email" : "rodrigo@whereby.us",
-      "first" : "Rodrigo",
-      "last" : "Gonzalez",
-      "title" : "Creative and Project Development",
-      "brand" : "WhereBy.Us",
-      "img" : "https://drive.google.com/open?id=0B64JLldT2m_5QnFPOVg5Q2o2Zlk",
-      "facebook" : "https://www.facebook.com/RodrigoBGonzalez",
-      "instagram" : "https://www.instagram.com/rbg529/",
-      "twitter" : "https://twitter.com/rbg529?lang=en",
-      "linkedin" : "https://www.linkedin.com/in/rodrigo-gonzalez-9418a43b/",
-      "github" : "",
-      "other" : "",
-      "profile_display" : "instagram"
-    }
+  "1" : {
+    "order" : 1,
+    "first" : "Christopher",
+    "last" : "Sopher",
+    "title" : "Co-founder and CEO",
+    "brand" : "WhereBy.Us",
+    "email" : "chris@whereby.us",
+    "facebook" : "https://www.facebook.com/cksopher",
+    "instagram" : "https://www.instagram.com/cksopher/",
+    "twitter" : "https://twitter.com/cksopher",
+    "linkedin" : "https://www.linkedin.com/in/cksopher",
+    "github" : "",
+    "link" : "",
+    "profile_display" : [
+      "twitter",
+      "facebook",
+      "instagram",
+      "linkedin"
+    ]
+  },
+  "2" : {
+    "order" : 2,
+    "first" : "Rebekah",
+    "last" : "Monson",
+    "title" : "Co-founder, V.P. Product",
+    "brand" : "WhereBy.Us",
+    "email" : "rebekah@whereby.us",
+    "facebook" : "https://www.facebook.com/rebekahmonson",
+    "instagram" : "https://www.instagram.com/rebekahmonson/",
+    "twitter" : "https://twitter.com/rsm",
+    "linkedin" : "https://www.linkedin.com/in/rmonson/",
+    "github" : "https://github.com/rebekahmonson",
+    "link" : "http://rebekahmonson.com",
+    "profile_display" : [
+      "twitter",
+      "linkedin",
+      "github",
+      "link"
+    ]
+  },
+  "3" : {
+    "order" : 3,
+    "first" : "Bruce",
+    "last" : "Pinchbeck",
+    "title" : "Co-founder and VP, Creative",
+    "brand" : "WhereBy.Us",
+    "email" : "bruce@whereby.us",
+    "facebook" : "https://www.facebook.com/bruuuuce",
+    "instagram" : "https://www.instagram.com/brucepinchbeckjr/",
+    "twitter" : "https://twitter.com/BrucePinchbeck",
+    "linkedin" : "https://www.linkedin.com/in/brucepinchbeckjr/",
+    "github" : "",
+    "link" : "",
+    "profile_display" : [
+      "twitter",
+      "facebook",
+      "instagram"
+    ]
+  },
+  "4" : {
+    "order" : 4,
+    "first" : "Chris",
+    "last" : "Adamo",
+    "title" : "Director, Business Development",
+    "brand" : "WhereBy.Us",
+    "email" : "adamo@whereby.us",
+    "facebook" : "https://www.facebook.com/christopheradamo",
+    "instagram" : "https://www.instagram.com/chrisadamo/",
+    "twitter" : "https://twitter.com/cadamo25",
+    "linkedin" : "https://www.linkedin.com/in/adamochris/",
+    "github" : "",
+    "link" : "",
+    "profile_display" : [
+      "twitter",
+      "facebook",
+      "instagram",
+      "linkedin"
+    ]
+  },
+  "5" : {
+    "order" : 5,
+    "first" : "Ernie",
+    "last" : "Hsiung",
+    "title" : "Director, Technology",
+    "brand" : "WhereBy.Us",
+    "email" : "ernie@whereby.us",
+    "facebook" : "https://www.facebook.com/ernie.hsiung",
+    "instagram" : "https://www.instagram.com/ernie/",
+    "twitter" : "https://twitter.com/ErnieAtLYD",
+    "linkedin" : "https://www.linkedin.com/in/erniehsiung/",
+    "github" : "https://github.com/ErnieAtLYD",
+    "link" : "",
+    "profile_display" : [
+      "twitter",
+      "instagram",
+      "linkedin",
+      "github"
+    ]
+  },
+  "6" : {
+    "order" : 6,
+    "first" : "Ariel",
+    "last" : "Zirulnick",
+    "title" : "Executive Editor",
+    "brand" : "The New Tropic",
+    "email" : "ariel@thenewtropic.com",
+    "facebook" : "http://www.facebook.com/azirulnick",
+    "instagram" : "http://www.instagram.com/azirulnick",
+    "twitter" : "http://www.twitter.com/azirulnick",
+    "linkedin" : "http://www.linkedin.com/azirulnick",
+    "github" : "",
+    "link" : "",
+    "profile_display" : [
+      "twitter",
+      "facebook",
+      "instagram"
+    ]
+  },
+  "7" : {
+    "order" : 7,
+    "first" : "Roshan",
+    "last" : "Nebhrajani",
+    "title" : "Producer",
+    "brand" : "The New Tropic",
+    "email" : "roshan@thenewtropic.com",
+    "facebook" : "https://www.facebook.com/roshab.neb",
+    "instagram" : "https://www.instagram.com/roshnebh/",
+    "twitter" : "https://twitter.com/roshnebh",
+    "linkedin" : "https://www.linkedin.com/in/roshnebh",
+    "github" : "",
+    "link" : "",
+    "profile_display" : [
+      "twitter",
+      "facebook",
+      "instagram"
+    ]
+  },
+  "8" : {
+    "order" : 8,
+    "first" : "Mónica",
+    "last" : "Guzmán",
+    "title" : "Executive Editor and local co-founder",
+    "brand" : "The Evergrey",
+    "email" : "monica@whereby.us",
+    "facebook" : "https://www.facebook.com/moniguzman",
+    "instagram" : "https://www.instagram.com/moniguzman/",
+    "twitter" : "https://twitter.com/moniguzman",
+    "linkedin" : "https://www.linkedin.com/in/moniguzman/",
+    "github" : "",
+    "link" : "",
+    "profile_display" : [
+      "twitter",
+      "facebook",
+      "instagram",
+      "linkedin"
+    ]
+  },
+  "9" : {
+    "order" : 9,
+    "first" : "Anika",
+    "last" : "Anand",
+    "title" : "Business Director and local co-founder",
+    "brand" : "The Evergrey",
+    "email" : "anika@whereby.us",
+    "facebook" : "https://www.facebook.com/anika.anand",
+    "instagram" : "https://www.instagram.com/anikaanand00/",
+    "twitter" : "https://twitter.com/anikaanand00",
+    "linkedin" : "https://www.linkedin.com/in/anikaanand/",
+    "github" : "",
+    "link" : "http://www.anikaanand.com/",
+    "profile_display" : [
+      "twitter",
+      "linkedin",
+      "link"
+    ]
+  },
+  "10" : {
+    "order" : 10,
+    "first" : "Kassandra",
+    "last" : "Meyer",
+    "title" : "Web Developer",
+    "brand" : "WhereBy.Us",
+    "email" : "kassandra@whereby.us",
+    "facebook" : "",
+    "instagram" : "",
+    "twitter" : "",
+    "linkedin" : "https://www.linkedin.com/in/kassandram/",
+    "github" : "https://github.com/kassanj",
+    "link" : "",
+    "profile_display" : [
+      "linkedin",
+      "github"
+    ]
+  },
+  "11" : {
+    "order" : 11,
+    "first" : "Laura",
+    "last" : "Courrau",
+    "title" : "Account Manager",
+    "brand" : "WhereBy.Us",
+    "email" : "laura@whereby.us",
+    "facebook" : "",
+    "instagram" : "",
+    "twitter" : "https://twitter.com/lauragcourrau",
+    "linkedin" : "https://www.linkedin.com/in/lauramgc",
+    "github" : "",
+    "link" : "",
+    "profile_display" : [
+      "twitter",
+      "linkedin"
+    ]
+  },
+  "12" : {
+    "order" : 12,
+    "first" : "Megan",
+    "last" : "Zimroth",
+    "title" : "Event Production Manager",
+    "brand" : "WhereBy.Us",
+    "email" : "megan@whereby.us",
+    "facebook" : "https://www.facebook.com/profile.php?id=5223453",
+    "instagram" : "https://www.instagram.com/azyoswife",
+    "twitter" : "",
+    "linkedin" : "https://www.linkedin.com/in/meganzimroth",
+    "github" : "",
+    "link" : "",
+    "profile_display" : [
+      "facebook",
+      "instagram",
+      "linkedin"
+    ]
+  },
+  "13" : {
+    "order" : 13,
+    "first" : "Sarah",
+    "last" : "Hernandez",
+    "title" : "Creative Project Manager",
+    "brand" : "WhereBy.Us",
+    "email" : "sarah@whereby.us",
+    "facebook" : "https://www.facebook.com/sarahmaria",
+    "instagram" : "https://www.instagram.com/smhernand/",
+    "twitter" : "https://twitter.com/sarahmhernandez",
+    "linkedin" : "",
+    "github" : "",
+    "link" : "",
+    "profile_display" : [
+      "twitter",
+      "facebook",
+      "instagram"
+    ]
+  },
+  "14" : {
+    "order" : 14,
+    "first" : "Hector",
+    "last" : "Chacon",
+    "title" : "Graphic Designer",
+    "brand" : "WhereBy.Us",
+    "email" : "hector@whereby.us",
+    "facebook" : "https://www.facebook.com/hector.chacon.14203",
+    "instagram" : "https://www.instagram.com/hecsagram/",
+    "twitter" : "https://twitter.com/hectorfchacon",
+    "linkedin" : "https://www.linkedin.com/in/hector-chacon-698339ba/",
+    "github" : "",
+    "link" : "",
+    "profile_display" : [
+      "twitter",
+      "instagram"
+    ]
+  },
+  "15" : {
+    "order" : 15,
+    "first" : "Rodrigo",
+    "last" : "Gonzalez",
+    "title" : "Creative and Project Development Lead",
+    "brand" : "WhereBy.Us",
+    "email" : "rodrigo@whereby.us",
+    "facebook" : "https://www.facebook.com/RodrigoBGonzalez",
+    "instagram" : "https://www.instagram.com/rbg529/",
+    "twitter" : "https://twitter.com/rbg529?lang=en",
+    "linkedin" : "https://www.linkedin.com/in/rodrigo-gonzalez-9418a43b/",
+    "github" : "",
+    "link" : "",
+    "profile_display" : "instagram"
   }
 }
