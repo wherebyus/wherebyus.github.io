@@ -117,25 +117,6 @@
       "instagram"
     ]
   },
-  "7" : {
-    "order" : 7,
-    "first" : "Roshan",
-    "last" : "Nebhrajani",
-    "title" : "Producer",
-    "brand" : "The New Tropic",
-    "email" : "roshan@thenewtropic.com",
-    "facebook" : "https://www.facebook.com/roshab.neb",
-    "instagram" : "https://www.instagram.com/roshnebh/",
-    "twitter" : "https://twitter.com/roshnebh",
-    "linkedin" : "https://www.linkedin.com/in/roshnebh",
-    "github" : "",
-    "link" : "",
-    "profile_display" : [
-      "twitter",
-      "facebook",
-      "instagram"
-    ]
-  },
   "8" : {
     "order" : 8,
     "first" : "Mónica",
@@ -160,7 +141,7 @@
     "order" : 9,
     "first" : "Anika",
     "last" : "Anand",
-    "title" : "Business Director and local co-founder",
+    "title" : "Storytelling Director and local co-founder",
     "brand" : "The Evergrey",
     "email" : "anika@whereby.us",
     "facebook" : "https://www.facebook.com/anika.anand",
