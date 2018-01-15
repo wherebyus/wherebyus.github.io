@@ -3,7 +3,7 @@
     "order": 1,
     "first": "Christopher",
     "last": "Sopher",
-    "title": "\"Co-founder and CEO\"",
+    "title": "Co-founder and CEO",
     "brand": "WhereBy.Us",
     "email": "chris@whereby.us",
     "facebook": "https://www.facebook.com/cksopher",
@@ -23,7 +23,10 @@
     "order": 2,
     "first": "Rebekah",
     "last": "Monson",
-    "title": "\"Co-founder, V.P. Product\"",
+    "title": [
+      "Co-founder",
+      "V.P. Product"
+    ],
     "brand": "WhereBy.Us",
     "email": "rebekah@whereby.us",
     "facebook": "https://www.facebook.com/rebekahmonson",
@@ -43,7 +46,10 @@
     "order": 3,
     "first": "Bruce",
     "last": "Pinchbeck",
-    "title": "\"Co-founder and VP, Creative\"",
+    "title": [
+      "Co-founder and VP",
+      "Creative"
+    ],
     "brand": "WhereBy.Us",
     "email": "bruce@whereby.us",
     "facebook": "https://www.facebook.com/bruuuuce",
@@ -62,9 +68,9 @@
     "order": 4,
     "first": "Ernie",
     "last": "Hsiung",
-    "title": "\"CTO\"",
+    "title": "CTO",
     "brand": "WhereBy.Us",
-    "email": "https://drive.google.com/open?id=0B-XOkm10hlUKc0V2OUQ0NzJxSTQ",
+    "email": "ernie@whereby.us",
     "facebook": "https://www.facebook.com/ernie.hsiung",
     "instagram": "https://www.instagram.com/ernie/",
     "twitter": "https://twitter.com/ErnieAtLYD",
@@ -82,7 +88,10 @@
     "order": 5,
     "first": "Chris",
     "last": "Adamo",
-    "title": "\"Director, Business Development\"",
+    "title": [
+      "Director",
+      "Business Development"
+    ],
     "brand": "WhereBy.Us",
     "email": "adamo@whereby.us",
     "facebook": "https://www.facebook.com/christopheradamo",
@@ -102,7 +111,7 @@
     "order": 6,
     "first": "Ariel",
     "last": "Zirulnick",
-    "title": "\"Executive Editor\"",
+    "title": "Executive Editor",
     "brand": "The New Tropic",
     "email": "ariel@thenewtropic.com",
     "facebook": "http://www.facebook.com/azirulnick",
@@ -119,9 +128,28 @@
   },
   "7": {
     "order": 7,
+    "first": "Lance",
+    "last": "Dixon",
+    "title": "Storytelling Producer",
+    "brand": "The New Tropic",
+    "email": "lance@thenewtropic.com",
+    "facebook": "https://www.facebook.com/ladixon12",
+    "instagram": "https://www.instagram.com/atribecalledme/",
+    "twitter": "https://twitter.com/LDixon_3",
+    "linkedin": "https://www.linkedin.com/in/lance-dixon-327b6224",
+    "github": "",
+    "link": "https://lanceadixon.contently.com/",
+    "profile_display": [
+      "twitter",
+      "facebook",
+      "instagram"
+    ]
+  },
+  "8": {
+    "order": 8,
     "first": "Mónica",
     "last": "Guzmán",
-    "title": "\"Executive Editor and local co-founder\"",
+    "title": "Executive Editor and local co-founder",
     "brand": "The Evergrey",
     "email": "monica@whereby.us",
     "facebook": "https://www.facebook.com/moniguzman",
@@ -137,11 +165,11 @@
       "linkedin"
     ]
   },
-  "8": {
-    "order": 8,
+  "9": {
+    "order": 9,
     "first": "Anika",
     "last": "Anand",
-    "title": "\"Business Director and local co-founder\"",
+    "title": "Business Director and local co-founder",
     "brand": "The Evergrey",
     "email": "anika@whereby.us",
     "facebook": "https://www.facebook.com/anika.anand",
@@ -156,11 +184,11 @@
       "link"
     ]
   },
-  "9": {
-    "order": 9,
+  "10": {
+    "order": 10,
     "first": "Laura",
     "last": "Courrau",
-    "title": "\"Account Manager\"",
+    "title": "Operations Manager",
     "brand": "WhereBy.Us",
     "email": "laura@whereby.us",
     "facebook": "",
@@ -174,11 +202,11 @@
       "linkedin"
     ]
   },
-  "10": {
-    "order": 10,
+  "11": {
+    "order": 11,
     "first": "Alejandro",
     "last": "González",
-    "title": "\"Business Manager\"",
+    "title": "Business Manager",
     "brand": "The New Tropic",
     "email": "alejandro@whereby.us",
     "facebook": "https://www.facebook.com/aleglez305",
@@ -189,11 +217,11 @@
     "link": "",
     "profile_display": "facebook"
   },
-  "11": {
-    "order": 11,
+  "12": {
+    "order": 12,
     "first": "Sarah",
     "last": "Hernandez",
-    "title": "\"Creative Project Manager\"",
+    "title": "Creative Project Manager",
     "brand": "WhereBy.Us",
     "email": "sarah@whereby.us",
     "facebook": "https://www.facebook.com/sarahmaria",
@@ -208,11 +236,11 @@
       "instagram"
     ]
   },
-  "12": {
-    "order": 12,
+  "13": {
+    "order": 13,
     "first": "Megan",
     "last": "Zimroth",
-    "title": "\"Event Production Manager\"",
+    "title": "Event Production Manager",
     "brand": "WhereBy.Us",
     "email": "megan@whereby.us",
     "facebook": "https://www.facebook.com/profile.php?id=5223453",
@@ -227,11 +255,11 @@
       "linkedin"
     ]
   },
-  "13": {
-    "order": 13,
+  "14": {
+    "order": 14,
     "first": "Briana",
     "last": "Brown",
-    "title": "\"Project Manager\"",
+    "title": "Project Manager",
     "brand": "WhereBy.Us",
     "email": "briana@whereby.us",
     "facebook": "",
@@ -246,11 +274,31 @@
       "linkedin"
     ]
   },
-  "14": {
-    "order": 14,
+  "15": {
+    "order": 15,
+    "first": "Al",
+    "last": "Delcy",
+    "title": "Full Stack Engineer",
+    "brand": "WhereBy.Us",
+    "email": "al@whereby.us",
+    "facebook": "https://www.facebook.com/al.delcy",
+    "instagram": "https://www.instagram.com/aldelcy",
+    "twitter": "https://www.twitter.com/aldelcy",
+    "linkedin": "https://www.linkedin.com/in/aldelcy",
+    "github": "https://www.github.com/aldelcy",
+    "link": "http://www.aldelcy.com/",
+    "profile_display": [
+      "instagram",
+      "linkedin",
+      "github",
+      "link"
+    ]
+  },
+  "16": {
+    "order": 16,
     "first": "Kassandra",
     "last": "Meyer",
-    "title": "\"Full Stack Engineer\"",
+    "title": "Full Stack Engineer",
     "brand": "WhereBy.Us",
     "email": "kassandra@whereby.us",
     "facebook": "",
@@ -264,31 +312,11 @@
       "github"
     ]
   },
-  "15": {
-    "order": 15,
-    "first": "Al",
-    "last": "Delcy",
-    "title": "\"Full Stack Engineer\"",
-    "brand": "WhereBy.Us",
-    "email": "al@whereby.us",
-    "facebook": "https://www.facebook.com/al.delcy",
-    "instagram": "https://www.instagram.com/aldelcy",
-    "twitter": "https://www.twitter.com/aldelcy",
-    "linkedin": "https://www.linkedin.com/in/aldelcy",
-    "github": "https://www.github.com/aldelcy",
-    "link": "",
-    "profile_display": [
-      "instagram",
-      "linkedin",
-      "github",
-      "link"
-    ]
-  },
-  "16": {
-    "order": 16,
+  "17": {
+    "order": 17,
     "first": "Hector",
     "last": "Chacon",
-    "title": "\"Graphic Designer\"",
+    "title": "Graphic Designer",
     "brand": "WhereBy.Us",
     "email": "hector@whereby.us",
     "facebook": "https://www.facebook.com/hector.chacon.14203",
@@ -302,11 +330,11 @@
       "instagram"
     ]
   },
-  "17": {
-    "order": 17,
+  "18": {
+    "order": 18,
     "first": "Rodrigo",
     "last": "Gonzalez",
-    "title": "\"Creative and Project Development Lead\"",
+    "title": "Creative and Project Development Lead",
     "brand": "WhereBy.Us",
     "email": "rodrigo@whereby.us",
     "facebook": "https://www.facebook.com/RodrigoBGonzalez",
@@ -317,11 +345,11 @@
     "link": "",
     "profile_display": "instagram"
   },
-  "18": {
-    "order": 18,
+  "19": {
+    "order": 19,
     "first": "Shablé",
     "last": "Harris",
-    "title": "\"Tech Apprentice\"",
+    "title": "Tech Apprentice",
     "brand": "WhereBy.Us",
     "email": "shable@whereby.us",
     "facebook": "https://www.facebook.com/Shable.Harris",
@@ -336,11 +364,11 @@
       "linkedin"
     ]
   },
-  "19": {
-    "order": 19,
+  "20": {
+    "order": 20,
     "first": "Erika",
     "last": "Bryant",
-    "title": "\"Tech Apprentice\"",
+    "title": "Tech Apprentice",
     "brand": "WhereBy.Us",
     "email": "erika@whereby.us",
     "facebook": "",
@@ -350,5 +378,20 @@
     "github": "",
     "link": "",
     "profile_display": "linkedin"
+  },
+  "": {
+    "order": "",
+    "first": "",
+    "last": "",
+    "title": "",
+    "brand": "",
+    "email": "",
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "link": "",
+    "profile_display": ""
   }
 }
