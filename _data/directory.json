@@ -276,6 +276,25 @@
   },
   "15": {
     "order": 15,
+    "first": "Kateline",
+    "last": "Hullar",
+    "title": "Account Manager",
+    "brand": "WhereBy.Us",
+    "email": "kateline@whereby.us",
+    "facebook": "https://www.facebook.com/kateline.hullar.5",
+    "instagram": "https://www.instagram.com/khullzz/",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "link": "https://www.linkedin.com/in/katelinehullar/",
+    "profile_display": [
+      "facebook",
+      "instagram",
+      "linkedin"
+    ]
+  },
+  "16": {
+    "order": 16,
     "first": "Al",
     "last": "Delcy",
     "title": "Full Stack Engineer",
@@ -294,8 +313,8 @@
       "link"
     ]
   },
-  "16": {
-    "order": 16,
+  "17": {
+    "order": 17,
     "first": "Kassandra",
     "last": "Meyer",
     "title": "Full Stack Engineer",
@@ -312,8 +331,8 @@
       "github"
     ]
   },
-  "17": {
-    "order": 17,
+  "18": {
+    "order": 18,
     "first": "Hector",
     "last": "Chacon",
     "title": "Graphic Designer",
@@ -330,8 +349,8 @@
       "instagram"
     ]
   },
-  "18": {
-    "order": 18,
+  "19": {
+    "order": 19,
     "first": "Rodrigo",
     "last": "Gonzalez",
     "title": "Creative and Project Development Lead",
@@ -345,8 +364,8 @@
     "link": "",
     "profile_display": "instagram"
   },
-  "19": {
-    "order": 19,
+  "20": {
+    "order": 20,
     "first": "Shablé",
     "last": "Harris",
     "title": "Tech Apprentice",
@@ -364,8 +383,8 @@
       "linkedin"
     ]
   },
-  "20": {
-    "order": 20,
+  "21": {
+    "order": 21,
     "first": "Erika",
     "last": "Bryant",
     "title": "Tech Apprentice",
